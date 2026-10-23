@@ -1,0 +1,7 @@
+{% extends 'dashboard/base.html' %}{% block title %}Edit account{% endblock %}{% block breadcrumb %}Team / Edit{% endblock %}
+{% block content %}
+<div class="heading"><div><span class="eyebrow">ACCOUNT MANAGEMENT</span><h1>Edit {{ obj.username }}</h1></div><a href="{% url 'users_manage' %}" class="secondary-btn">← All accounts</a></div>
+<section class="panel form-panel narrow"><form method="post" class="stack-form">{% csrf_token %}<label>First name<input name="first_name" value="{{ obj.first_name }}"></label><label>Last name<input name="last_name" value="{{ obj.last_name }}"></label><label>Email<input name="email" type="email" value="{{ obj.email }}"></label>
+{% if not obj.is_superuser %}<label>Role<select name="role">{% for v,label in roles %}<option value="{{ v }}" {% if obj.profile.role == v %}selected{% endif %}>{{ label }}</option>{% endfor %}</select></label><label class="checkline"><input type="checkbox" name="active" {% if obj.is_active %}checked{% endif %}> Active account</label>{% endif %}
+<label>Set a new password (leave empty to keep the current one)<input name="new_password" type="password" autocomplete="new-password"></label><button class="primary-btn">Save account</button></form></section>
+{% endblock %}

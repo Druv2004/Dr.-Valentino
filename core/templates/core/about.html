@@ -1,0 +1,67 @@
+{% extends "core/base.html" %}
+{% load site_tags %}
+{% block title %}About | {{ site.full_name }}{% endblock %}
+{% block content %}
+<header class="page-head"><div class="wrap">
+  <h1>About</h1>
+  <p class="lead">{{ site.short_title }}</p>
+</div></header>
+
+<section class="block">
+  <div class="wrap about-grid">
+    <div class="prose prose-lg">{{ site.bio|rich_paragraphs }}</div>
+    <aside>
+      <img class="portrait" src="{{ site.photo_url }}" alt="Portrait of {{ site.full_name }}">
+      {% if site.cv_file %}<a class="btn btn-solid" href="{{ site.cv_file.url }}" download>Download CV</a>{% endif %}
+      {% if certs %}
+      <h3 class="side-h">Board certification</h3>
+      <ul class="plain">{% for c in certs %}<li>{{ c.title }}</li>{% endfor %}</ul>
+      {% endif %}
+    </aside>
+  </div>
+</section>
+
+<section class="block block-tint">
+  <div class="wrap">
+    <h2>Career</h2>
+    <ol class="timeline">
+      {% for e in experience %}
+      <li>
+        <span class="t-period">{{ e.period }}</span>
+        <div>
+          <p class="t-title">{{ e.title }}</p>
+          <p class="t-org">{{ e.organization }}</p>
+          {% if e.detail_lines %}<ul>{% for d in e.detail_lines %}<li>{{ d }}</li>{% endfor %}</ul>{% endif %}
+        </div>
+      </li>
+      {% endfor %}
+    </ol>
+  </div>
+</section>
+
+<section class="block">
+  <div class="wrap two-col">
+    <div>
+      <h2>Education and training</h2>
+      <ol class="timeline compact">
+        {% for e in education %}<li><span class="t-period">{{ e.period }}</span><div><p class="t-title">{{ e.title }}</p><p class="t-org">{{ e.organization }}</p></div></li>{% endfor %}
+      </ol>
+    </div>
+    <div>
+      <h2>Academic appointments</h2>
+      <ol class="timeline compact">
+        {% for e in appointments %}<li><span class="t-period">{{ e.period }}</span><div><p class="t-title">{{ e.title }}</p><p class="t-org">{{ e.organization }}</p></div></li>{% endfor %}
+      </ol>
+    </div>
+  </div>
+</section>
+
+<section class="block block-tint">
+  <div class="wrap">
+    <h2>Honors and awards</h2>
+    <ol class="timeline compact honors">
+      {% for e in honors %}<li><span class="t-period">{{ e.period }}</span><div><p class="t-title">{{ e.title }}</p><p class="t-org">{{ e.organization }}</p></div></li>{% endfor %}
+    </ol>
+  </div>
+</section>
+{% endblock %}

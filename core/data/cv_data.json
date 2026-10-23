@@ -1,0 +1,3134 @@
+{
+ "publications": [
+  {
+   "authors": "Cerretani, A., Robinson, I., Shtaynberger, J., Caicedo, J., Montcrieff, C., & Valentino, L. A.",
+   "year": 2026,
+   "title": "Feasibility and outcomes of switching factor VIII therapies: post-hoc analysis of patients transitioning from older plasma-derived and first-generation recombinant factor VIII to newer third-generation recombinant factor VIII replacement therapies within the Takeda factor VIII portfolio",
+   "journal": "Expert Rev Hematol, 19(4), 447–456",
+   "url": "https://doi.org/10.1080/17474086.2026.2619440",
+   "kind": "article"
+  },
+  {
+   "authors": "Martin, C., Valentino, L. A., Farny-Quentin, S., Leuci, A., & Dargaud, Y.",
+   "year": 2026,
+   "title": "Inhibition of activated protein C anticoagulant function enhances coagulation but does not interrupt downstream mechanisms driving hemophilic arthropathy",
+   "journal": "Exp Hematol, 105421",
+   "url": "https://doi.org/10.1016/j.exphem.2026.105421",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., & Forsyth, A. L.",
+   "year": 2026,
+   "title": "Mouse trials and human triumphs: recovery after hemarthrosis?",
+   "journal": "J Thromb Haemost, 24(1), 49–51",
+   "url": "https://doi.org/10.1016/j.jtha.2025.09.031",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., Hermans, C., Coffin, D., Miesbach, W., Mancuso, M. E., Unzu, C., Jones, M., Gutstein, D. E., McKeown, W., & Kessler, C. M.",
+   "year": 2026,
+   "title": "Building a gene editing lexicon: a model for rare and inherited disorders",
+   "journal": "Gene Ther",
+   "url": "https://doi.org/10.1038/s41434-026-00596-3",
+   "kind": "article"
+  },
+  {
+   "authors": "Buckner, T. W., Kessler, C., Castaman, G., Hermans, C., Jimenez-Yuste, V., Mahlangu, J., Miesbach, W., Oldenburg, J., Recht, M., Valentino, L. A., Wheeler, A. P., & Pipe, S. W.",
+   "year": 2025,
+   "title": "Pain Reduction Following Eptacog Beta Treatment of Bleeding Episodes in Adolescents and Adults With Haemophilia A or B Complicated by Inhibitors",
+   "journal": "Haemophilia, 31(4), 713–721",
+   "url": "https://doi.org/10.1111/hae.70077",
+   "kind": "article"
+  },
+  {
+   "authors": "Chrisentery-Singleton, T. E., Gattone, P. M., Gerber, C. M., Mills, K. D., Miles, M. E., 3rd, Rotellini, D., Santaella, M. E., Valentino, L. A., Watson, C., & Recht, M.",
+   "year": 2025,
+   "title": "American Thrombosis and Hemostasis Network: National Bleeding Disorders Foundation Data Commons: Better Together",
+   "journal": "Haemophilia, 31(3), 589–593",
+   "url": "https://doi.org/10.1111/hae.70011",
+   "kind": "article"
+  },
+  {
+   "authors": "Dargaud, Y., Lobet, S., Roussel, N., & Valentino, L. A.",
+   "year": 2025,
+   "title": "Unmet needs in hemophilic arthropathy",
+   "journal": "Blood Rev, 74, 101304",
+   "url": "https://doi.org/10.1016/j.blre.2025.101304",
+   "kind": "article"
+  },
+  {
+   "authors": "Fedewa, S. A., Valentino, L. A., Koo, A., Cafuir, L., Gillespie, T. W., Buckner, T. W., Tran, D. Q., Antun, A., & Kempton, C. L.",
+   "year": 2025,
+   "title": "Global patterns of hemophilia drug trials, hemophilia care, and health care measures",
+   "journal": "Res Pract Thromb Haemost, 9(2), 102714",
+   "url": "https://doi.org/10.1016/j.rpth.2025.102714",
+   "kind": "article"
+  },
+  {
+   "authors": "Kessler, C. M., Valentino, L. A., Thornburg, C. D., Unzu, C., Kay, M. A., Peyvandi, F., Smith, P., Miesbach, W., McKeown, W., Pierce, G. F., Khair, K., Starcevic, K., Pillai, M., Jones, M., Sindhurakar, A., Whyte, L., Delwart, V., Chiao, M., Gutstein, D. E., . . . Pipe, S. W.",
+   "year": 2025,
+   "title": "Development of a novel gene editing lexicon for hemophilia: methodology and results",
+   "journal": "Res Pract Thromb Haemost, 9(2), 102710",
+   "url": "https://doi.org/10.1016/j.rpth.2025.102710",
+   "kind": "article"
+  },
+  {
+   "authors": "Kuaban, A., Croker, A. K., Keefer, J., Valentino, L. A., Bierer, B. E., Boateng, S., DiMichele, D., Fogarty, P., Gibson, C. M., Hood, A. M., Hubbard, L., Isgro, A., Knobe, K., Lake, L., Martin, I., Reid, M., Roberts, J. C., Tomlinson, W., Tunji-Ajayi, L., . . . Seremetis, S.",
+   "year": 2025,
+   "title": "The roadmap to integrate diversity, equity, and inclusion in hematology clinical trials: an American Society of Hematology initiative",
+   "journal": "Blood Adv, 9(4), 687–695",
+   "url": "https://doi.org/10.1182/bloodadvances.2024013945",
+   "kind": "article"
+  },
+  {
+   "authors": "Mancuso, M. E., Chowdary, P., Valentino, L. A., Jimenez-Yuste, V., Klamroth, R., & Hermans, C.",
+   "year": 2025,
+   "title": "\"Deconstructing the ISTH Hemophilia Guidelines for the clinician\": comment from Mancuso et al",
+   "journal": "J Thromb Haemost, 23(5), 1735–1736",
+   "url": "https://doi.org/10.1016/j.jtha.2025.02.004",
+   "kind": "article"
+  },
+  {
+   "authors": "McKeown, W., Hermans, C., Unzu, C., Kay, M. A., Peyvandi, F., Smith, P., Miesbach, W., Pierce, G. F., Khair, K., Valentino, L. A., Pipe, S. W., Pillai, M., Jones, M., Delwart, V., Sindhurakar, A., Gutstein, D. E., & Kessler, C. M.",
+   "year": 2025,
+   "title": "Operationalising a Haemophilia Gene Editing Lexicon for Practical Use",
+   "journal": "Haemophilia",
+   "url": "https://doi.org/10.1111/hae.15155",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., & Khair, K.",
+   "year": 2025,
+   "title": "Giving Choice a Voice: Commentary on Development of the World Federation of Hemophilia Shared Decision-Making Tool",
+   "journal": "Haemophilia, 31(1), 5–6",
+   "url": "https://doi.org/10.1111/hae.15133",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., Santaella, M. E., Witkop, M. L., Stanhope, R. W., Valadez, S., Carlson, S. A., Benasutti, H., DiMichele, D., & Recht, M.",
+   "year": 2025,
+   "title": "The Bleeding Disorders Research Collaborative",
+   "journal": "Blood Vessel Thromb Hemost, 2(4), 100099",
+   "url": "https://doi.org/10.1016/j.bvth.2025.100099",
+   "kind": "article"
+  },
+  {
+   "authors": "Albisetti, M., Ardila, J., Astermark, J., Blatny, J., Carcao, M., Chowdary, P., Connell, N. T., Crato, M., Dargaud, Y., d'Oiron, R., Dunn, A. L., Escobar, M. A., Ettingshausen, C. E., Fischer, K., Gouider, E., Harroche, A., Hermans, C., Jimenez-Yuste, V., Kaczmarek, R., . . . Mhemo, G. H. N. P. U. W.",
+   "year": 2024,
+   "title": "International Society on Thrombosis and Haemostasis Clinical Practice Guideline for Treatment of Congenital Haemophilia-A Critical Appraisal",
+   "journal": "Haemophilia",
+   "url": "https://doi.org/10.1111/hae.15135",
+   "kind": "article"
+  },
+  {
+   "authors": "Clearfield, E., Chang, H. Y., Janssen, E. M., Majid, T., Messner, D. A., Coffin, D., Jain, M., Monahan, P. E., Valentino, L. A., Witkop, M., & Skinner, M. W.",
+   "year": 2024,
+   "title": "Development of the coreHEM mental health patient-reported outcome measure - A novel mental health outlook measure for people with haemophilia",
+   "journal": "Haemophilia",
+   "url": "https://doi.org/10.1111/hae.15085",
+   "kind": "article"
+  },
+  {
+   "authors": "Fedewa, S. A., Cafuir, L., Valentino, L. A., Koo, A., Antun, A., & Kempton, C. L.",
+   "year": 2024,
+   "title": "Women and girls' participation in haemophilia clinical trials",
+   "journal": "Haemophilia",
+   "url": "https://doi.org/10.1111/hae.15101",
+   "kind": "article"
+  },
+  {
+   "authors": "Fedewa, S. A., Valentino, L. A., Koo, A., Cafuir, L., Tran, D. Q., Antun, A., & Kempton, C. L.",
+   "year": 2024,
+   "title": "Race and ethnicity reporting and representation in hemophilia clinical trials",
+   "journal": "Blood Adv, 8(10), 2351–2360",
+   "url": "https://doi.org/10.1182/bloodadvances.2024012862",
+   "kind": "article"
+  },
+  {
+   "authors": "Hermans, C., Valentino, L. A., Thornburg, C. D., Unzu, C., Kay, M. A., Peyvandi, F., Smith, P., Miesbach, W., McKeown, W., Pierce, G. F., Khair, K., Pipe, S. W., Starcevic, K., Pillai, M., Jones, M., Chiao, M., Antonino, I., & Kessler, C.",
+   "year": 2024,
+   "title": "A novel gene editing lexicon strategy for the haemophilia community: Research plan for development and preliminary results",
+   "journal": "Haemophilia",
+   "url": "https://doi.org/10.1111/hae.15108",
+   "kind": "article"
+  },
+  {
+   "authors": "Kuaban, A., Croker, A., Keefer, J., Valentino, L. A., Bierer, B. E., Boateng, S., DiMichele, D. M., Fogarty, P., Gibson, M. C., Hood, A. M., Hubbard, L., Isgro, A., Knobe, K., Lake, L., Martin, I., Reid, M. M., Roberts, J. C., Tomlinson, W., Tunji-Ajayi, L. M., . . . Seremetis, S.",
+   "year": 2024,
+   "title": "The Roadmap to Integrate Diversity, Equity, and Inclusion in Hematology Clinical Trials: An American Society of Hematology Initiative",
+   "journal": "Blood Adv",
+   "url": "https://doi.org/10.1182/bloodadvances.2024013945",
+   "kind": "article"
+  },
+  {
+   "authors": "Mancuso, M. E., McLaughlin, P., Forsyth, A. L., & Valentino, L. A.",
+   "year": 2024,
+   "title": "Joint health and pain in the changing hemophilia treatment landscape",
+   "journal": "Expert Rev Hematol, 17(8), 431–444",
+   "url": "https://doi.org/10.1080/17474086.2024.2378936",
+   "kind": "article"
+  },
+  {
+   "authors": "Skinner, M. W., Albisetti, M., Ardila, J., Astermark, J., Blatny, J., Carcao, M., Chowdary, P., Connell, N. T., Crato, M., Dargaud, Y., d'Oiron, R., Dunn, A. L., Escobar, M. A., Escuriola-Ettingshausen, C., Gouider, E., Harroche, A., Hermans, C., Jimenez-Yuste, V., Kaczmarek, R., . . . Mhemohtccncnbdfpednetukhcdowfh.",
+   "year": 2024,
+   "title": "Contrasting Approaches in the Implementation of GRADE Methodology in Guidelines for Haemophilia and Von Willebrand Disease",
+   "journal": "Haemophilia",
+   "url": "https://doi.org/10.1111/hae.15136",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A.",
+   "year": 2024,
+   "title": "The imperative to prevent joint bleeding in everyone living with hemophilia",
+   "journal": "Res Pract Thromb Haemost, 8(2), 102383",
+   "url": "https://doi.org/10.1016/j.rpth.2024.102383",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., & Khair, K.",
+   "year": 2024,
+   "title": "Giving Choice a Voice: Commentary on Development of the World Federation of Hemophilia Shared Decision-Making Tool",
+   "journal": "Haemophilia",
+   "url": "https://doi.org/10.1111/hae.15133",
+   "kind": "article"
+  },
+  {
+   "authors": "Robinson, F., Wilkes, S., Schaefer, N., Goldstein, M., Rice, M., Gray, J., Meyers, S., & Valentino, L. A.",
+   "year": 2023,
+   "title": "Patient-centered pharmacovigilance: priority actions from the inherited bleeding disorders community",
+   "journal": "Ther Adv Drug Saf, 14, 20420986221146418",
+   "url": "https://doi.org/10.1177/20420986221146418",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A.",
+   "year": 2023,
+   "title": "A commentary on \"maladaptive lymphangiogenesis\" according to Newton's third law: the law of action and reaction as it applies to joint bleeding",
+   "journal": "J Thromb Haemost, 21(9), 2375–2377",
+   "url": "https://doi.org/10.1016/j.jtha.2023.04.026",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A.",
+   "year": 2023,
+   "title": "Foreword: a special focus on bleeding disorders",
+   "journal": "Expert Rev Hematol, 16(6), 389",
+   "url": "https://doi.org/10.1080/17474086.2023.2218612",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., Kaczmarek, R., Pierce, G. F., Noone, D., O'Mahony, B., Page, D., Rotellini, D., & Skinner, M. W.",
+   "year": 2023,
+   "title": "Hemophilia gene therapy: first, do no harm",
+   "journal": "J Thromb Haemost, 21(9), 2354–2361",
+   "url": "https://doi.org/10.1016/j.jtha.2023.06.016",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., Ozelo, M. C., Herzog, R. W., Key, N. S., Pishko, A. M., Ragni, M. V., Samelson-Jones, B. J., & Lillicrap, D.",
+   "year": 2023,
+   "title": "A review of the rationale for gene therapy for hemophilia A with inhibitors: one-shot tolerance and treatment?",
+   "journal": "J Thromb Haemost, 21(11), 3033–3044",
+   "url": "https://doi.org/10.1016/j.jtha.2023.05.011",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., Witkop, M. L., Santaella, M. E., DiMichele, D., & Recht, M.",
+   "year": 2023,
+   "title": "The National Hemophilia Foundation's State of the Science Research Summit: the foundation of a national research blueprint for inherited bleeding disorders",
+   "journal": "Expert Rev Hematol, 16(sup1), 1–5",
+   "url": "https://doi.org/10.1080/17474086.2023.2178412",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., Witkop, M. L., Santaella, M. E., DiMichele, D., & Recht, M.",
+   "year": 2023,
+   "title": "The National Hemophilia Foundation State of the Science Research Summit initiative: executive summary",
+   "journal": "Expert Rev Hematol, 16(sup1), 129–134",
+   "url": "https://doi.org/10.1080/17474086.2023.2181782",
+   "kind": "article"
+  },
+  {
+   "authors": "Wehmeier, U. F., Orth, V., Hoppe, V., Valentino, L. A., & Hilberg, T.",
+   "year": 2023,
+   "title": "Neuroinflammatory markers in patients with haemophilia and healthy controls: Where are the differences?",
+   "journal": "Haemophilia, 29(6), 1539–1546",
+   "url": "https://doi.org/10.1111/hae.14881",
+   "kind": "article"
+  },
+  {
+   "authors": "Johnsen, J. M., Fletcher, S. N., Dove, A., McCracken, H., Martin, B. K., Kircher, M., Josephson, N. C., Shendure, J., Ruuska, S. E., Valentino, L. A., Pierce, G. F., Watson, C., Cheng, D., Recht, M., & Konkle, B. A.",
+   "year": 2022,
+   "title": "Results of genetic analysis of 11 341 participants enrolled in the My Life, Our Future hemophilia genotyping initiative in the United States",
+   "journal": "J Thromb Haemost, 20(9), 2022–2034",
+   "url": "https://doi.org/10.1111/jth.15805",
+   "kind": "article"
+  },
+  {
+   "authors": "Lopez, K., Norris, K., Hardy, M., & Valentino, L. A.",
+   "year": 2022,
+   "title": "Defining the Impact of Social Drivers on Health Outcomes for People with Inherited Bleeding Disorders",
+   "journal": "J Clin Med, 11(15)",
+   "url": "https://doi.org/10.3390/jcm11154443",
+   "kind": "article"
+  },
+  {
+   "authors": "Pierce, G. F., Adediran, M., Diop, S., Dunn, A. L., El Ekiaby, M., Kaczmarek, R., Konkle, B. A., Pipe, S. W., Skinner, M. W., Valentino, L. A., Robinson, F., Ampartzidis, G., Martin, J., & Haffar, A.",
+   "year": 2022,
+   "title": "Achieving access to haemophilia care in low-income and lower-middle-income countries: expanded Humanitarian Aid Program of the World Federation of Hemophilia after 5 years",
+   "journal": "Lancet Haematol, 9(9), e689–e697",
+   "url": "https://doi.org/10.1016/S2352-3026(22)00209-5",
+   "kind": "article"
+  },
+  {
+   "authors": "Rauch, A., Valentino, L. A., Mills, K., Witkop, M. L., Santaella, M. E., DiMichele, D., Recht, M., & Susen, S.",
+   "year": 2022,
+   "title": "Big picture initiatives in bleeding disorders",
+   "journal": "Haemophilia, 28 Suppl 4, 53–60",
+   "url": "https://doi.org/10.1111/hae.14532",
+   "kind": "article"
+  },
+  {
+   "authors": "Rodriguez-Merchan, E. C., & Valentino, L. A.",
+   "year": 2022,
+   "title": "Return to Sport Activities and Risk of Reinjury Following Primary Anterior Cruciate Ligament Reconstruction",
+   "journal": "Arch Bone Jt Surg, 10(8), 648–660",
+   "url": "https://doi.org/10.22038/ABJS.2021.50463.2504",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., Hardy, M. L., James, P., Connell, N. T., Flood, V., Scappe, N., & Frick, N.",
+   "year": 2022,
+   "title": "von Willebrand disease (VWD) and BATs: How do they connect and why should I care?",
+   "journal": "Haemophilia, 28(3), e89–e90",
+   "url": "https://doi.org/10.1111/hae.14549",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., Witkop, M. L., Santaella, M. E., DiMichele, D., & Recht, M.",
+   "year": 2022,
+   "title": "Building the blueprint: Formulating a community-generated national plan for future research in inherited bleeding disorders",
+   "journal": "Haemophilia, 28(5), 760–768",
+   "url": "https://doi.org/10.1111/hae.14588",
+   "kind": "article"
+  },
+  {
+   "authors": "Lisowski, L., Staber, J. M., Wright, J. F., & Valentino, L. A.",
+   "year": 2021,
+   "title": "The intersection of vector biology, gene therapy, and hemophilia",
+   "journal": "Res Pract Thromb Haemost, 5(6), e12586",
+   "url": "https://doi.org/10.1002/rth2.12586",
+   "kind": "article"
+  },
+  {
+   "authors": "Marchesini, E., Morfini, M., & Valentino, L.",
+   "year": 2021,
+   "title": "Recent Advances in the Treatment of Hemophilia: A Review",
+   "journal": "Biologics, 15, 221–235",
+   "url": "https://doi.org/10.2147/BTT.S252580",
+   "kind": "article"
+  },
+  {
+   "authors": "Monahan, P. E., Negrier, C., Tarantino, M., Valentino, L. A., & Mingozzi, F.",
+   "year": 2021,
+   "title": "Emerging Immunogenicity and Genotoxicity Considerations of Adeno-Associated Virus Vector Gene Therapy for Hemophilia",
+   "journal": "J Clin Med, 10(11)",
+   "url": "https://doi.org/10.3390/jcm10112471",
+   "kind": "article"
+  },
+  {
+   "authors": "Sidonio, R. F., Jr., Pipe, S. W., Callaghan, M. U., Valentino, L. A., Monahan, P. E., & Croteau, S. E.",
+   "year": 2021,
+   "title": "Discussing investigational AAV gene therapy with hemophilia patients: A guide",
+   "journal": "Blood Rev, 47, 100759",
+   "url": "https://doi.org/10.1016/j.blre.2020.100759",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., Baker, J. R., Butler, R., Escobar, M., Frick, N., Karp, S., Koulianos, K., Lattimore, S., Nugent, D., Pugliese, J. N., Recht, M., Reding, M. T., Rice, M., Thibodeaux, C. B., & Skinner, M.",
+   "year": 2021,
+   "title": "Integrated Hemophilia Patient Care via a National Network of Care Centers in the United States: A Model for Rare Coagulation Disorders",
+   "journal": "J Blood Med, 12, 897–911",
+   "url": "https://doi.org/10.2147/JBM.S325031",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., & Khair, K.",
+   "year": 2020,
+   "title": "Prophylaxis for hemophilia A without inhibitors: treatment options and considerations",
+   "journal": "Expert Rev Hematol, 13(7), 731–743",
+   "url": "https://doi.org/10.1080/17474086.2020.1775576",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., Skinner, M. W., & Pipe, S. W.",
+   "year": 2020,
+   "title": "The role of telemedicine in the delivery of health care in the COVID-19 pandemic",
+   "journal": "Haemophilia, 26(5), e230–e231",
+   "url": "https://doi.org/10.1111/hae.14044",
+   "kind": "article"
+  },
+  {
+   "authors": "Rodriguez-Merchan, E. C., & Valentino, L. A.",
+   "year": 2019,
+   "title": "The Role of Gene Therapy in Cartilage Repair",
+   "journal": "Arch Bone Jt Surg, 7(2), 79–90",
+   "url": "https://www.ncbi.nlm.nih.gov/pubmed/31211186",
+   "kind": "article"
+  },
+  {
+   "authors": "Rodriguez-Merchan, E. C., & Valentino, L. A.",
+   "year": 2019,
+   "title": "Emicizumab: Review of the literature and critical appraisal",
+   "journal": "Haemophilia, 25(1), 11–20",
+   "url": "https://doi.org/10.1111/hae.13641",
+   "kind": "article"
+  },
+  {
+   "authors": "Rodriguez-Merchan, E. C., & Valentino, L. A.",
+   "year": 2019,
+   "title": "Increased bone resorption in hemophilia",
+   "journal": "Blood Rev, 33, 6–10",
+   "url": "https://doi.org/10.1016/j.blre.2018.05.002",
+   "kind": "article"
+  },
+  {
+   "authors": "Carpenter, S. L., Khair, K., Gringeri, A., & Valentino, L. A.",
+   "year": 2018,
+   "title": "Prophylactic bypassing agent use before and during immune tolerance induction in patients with haemophilia A and inhibitors to FVIII",
+   "journal": "Haemophilia, 24(4), 570–577",
+   "url": "https://doi.org/10.1111/hae.13534",
+   "kind": "article"
+  },
+  {
+   "authors": "Hartmann, R., Feenstra, T., Valentino, L., Dockal, M., & Scheiflinger, F.",
+   "year": 2018,
+   "title": "In vitro studies show synergistic effects of a procoagulant bispecific antibody and bypassing agents",
+   "journal": "J Thromb Haemost",
+   "url": "https://doi.org/10.1111/jth.14203",
+   "kind": "article"
+  },
+  {
+   "authors": "Rodriguez-Merchan, E. C., & Valentino, L. A.",
+   "year": 2018,
+   "title": "Joint lavage followed by intra-articular injection of hyaluronic acid and/or corticosteroids in patients with severe hemophilic arthropathy of the knee: Is this intervention really effective?",
+   "journal": "Expert Rev Hematol, 11(6), 449–454",
+   "url": "https://doi.org/10.1080/17474086.2018.1472568",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., Turecek, P. L., Gritsch, H., Butenas, S., & Mann, K. G.",
+   "year": 2018,
+   "title": "Issues complicating precision dosing for factor VIII prophylaxis",
+   "journal": "Transfus Apher Sci, 57(4), 472–479",
+   "url": "https://doi.org/10.1016/j.transci.2018.07.007",
+   "kind": "article"
+  },
+  {
+   "authors": "von Mackensen, S., Hilberg, T., Valentino, L. A., Kurnik, K., & Khair, K.",
+   "year": 2018,
+   "title": "Validation of the Haemophilia & Exercise Project-Test-Questionnaire (HEP-Test-Q)-An instrument for the assessment of subjective physical functioning in children with haemophilia",
+   "journal": "Haemophilia, 24(6), 888–895",
+   "url": "https://doi.org/10.1111/hae.13533",
+   "kind": "article"
+  },
+  {
+   "authors": "Iorio, A., Iserman, E., Blanchette, V., Dolan, G., Escuriola Ettingshausen, C., Hermans, C., Negrier, C., Oldenburg, J., Reininger, A., Rodriguez-Merchan, C., Spannagl, M., Valentino, L. A., Young, G., Steinitz-Trost, K. N., & Gringeri, A.",
+   "year": 2017,
+   "title": "Target plasma factor levels for personalized treatment in haemophilia: a Delphi consensus statement",
+   "journal": "Haemophilia, 23(3), e170–e179",
+   "url": "https://doi.org/10.1111/hae.13215",
+   "kind": "article"
+  },
+  {
+   "authors": "Turecek, P. L., Spannagl, M., Kragh, T., Allmaier, G., Turecek, M., Schrenk, G., Gritsch, H., Obermann-Slupetzky, O., Ewenstein, B. M., & Valentino, L. A.",
+   "year": 2017,
+   "title": "The role of ultralarge multimers in recombinant human von Willebrand factor - a review of physico-and biochemical studies and findings in in vivo models and in humans with von Willebrand disease",
+   "journal": "Hamostaseologie, 37(S 01), S15–S25. https://doi.org/10.5482/HAMO-17-04-0018 (Zur Funktion der grossen Multimere in rekombinantem humanem von Willebrand Faktor - Ein Review physiko-und biochemischer Studien und von Ergebnissen aus Tiermodellen und klinischen Studien in Patienten mit von Willebrand Syndrom.)",
+   "url": "",
+   "kind": "article"
+  },
+  {
+   "authors": "Gringeri, A., Doralt, J., Valentino, L. A., Crea, R., & Reininger, A. J.",
+   "year": 2016,
+   "title": "An innovative outcome-based care and procurement model of hemophilia management",
+   "journal": "Expert Rev Pharmacoecon Outcomes Res, 16(3), 337– 345",
+   "url": "https://doi.org/10.1080/14737167.2016.1178066",
+   "kind": "article"
+  },
+  {
+   "authors": "Hakobyan, N., Valentino, L. A., Cong, L., Enockson, C., Song, X. Q., Desai, S., Radtke, R., & Fogg, L. F.",
+   "year": 2016,
+   "title": "Haemarthrosis model in mice: BSS - Bleeding Severity Score assessment system",
+   "journal": "Haemophilia, 22(5), 790– 798",
+   "url": "https://doi.org/10.1111/hae.12950",
+   "kind": "article"
+  },
+  {
+   "authors": "Rodriguez-Merchan, E. C., & Valentino, L. A.",
+   "year": 2016,
+   "title": "Orthopedic disorders of the knee in hemophilia: A current concept review",
+   "journal": "World J Orthop, 7(6), 370–375",
+   "url": "https://doi.org/10.5312/wjo.v7.i6.370",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., Pipe, S. W., Collins, P. W., Blanchette, V. S., Berntorp, E., Fischer, K., Ewenstein, B. M., Oh, M., & Spotts, G.",
+   "year": 2016,
+   "title": "Association of peak factor VIII levels and area under the curve with bleeding in patients with haemophilia A on every third day pharmacokinetic-guided prophylaxis",
+   "journal": "Haemophilia, 22(4), 514–520",
+   "url": "https://doi.org/10.1111/hae.12905",
+   "kind": "article"
+  },
+  {
+   "authors": "Holm, E., Abshire, T. C., Bowen, J., Alvarez, M. T., Bolton-Maggs, P., Carcao, M., Federici, A. B., Gill, J. C., Halimeh, S., Kempton, C., Key, N. S., Kouides, P., Lail, A., Landorph, A., Leebeek, F., Makris, M., Mannucci, P., Mauser-Bunschoten, E. P., Nugent, D., . . . Berntorp, E.",
+   "year": 2015,
+   "title": "Changes in bleeding patterns in von Willebrand disease after institution of long-term replacement therapy: results from the von Willebrand Disease Prophylaxis Network",
+   "journal": "Blood Coagul Fibrinolysis, 26(4), 383–388",
+   "url": "https://doi.org/10.1097/MBC.0000000000000257",
+   "kind": "article"
+  },
+  {
+   "authors": "Kearney, S., Sharathkumar, A., Rodriguez, V., Chitlur, M., Valentino, L., Boggio, L., & Gill, J.",
+   "year": 2015,
+   "title": "Neonatal circumcision in severe haemophilia: a survey of paediatric haematologists at United States Hemophilia Treatment Centers",
+   "journal": "Haemophilia, 21(1), 52–57",
+   "url": "https://doi.org/10.1111/hae.12528",
+   "kind": "article"
+  },
+  {
+   "authors": "Mittal, N., Naridze, R., James, P., Shott, S., & Valentino, L. A.",
+   "year": 2015,
+   "title": "Utility of a Paediatric Bleeding Questionnaire as a screening tool for von Willebrand disease in apparently healthy children",
+   "journal": "Haemophilia, 21(6), 806– 811",
+   "url": "https://doi.org/10.1111/hae.12689",
+   "kind": "article"
+  },
+  {
+   "authors": "Oladapo, A. O., Epstein, J. D., Williams, E., Ito, D., Gringeri, A., & Valentino, L. A.",
+   "year": 2015,
+   "title": "Health-related quality of life assessment in haemophilia patients on prophylaxis therapy: a systematic review of results from prospective clinical trials",
+   "journal": "Haemophilia, 21(5), e344–358",
+   "url": "https://doi.org/10.1111/hae.12759",
+   "kind": "article"
+  },
+  {
+   "authors": "Petrini, P., Valentino, L. A., Gringeri, A., Re, W. M., & Ewenstein, B.",
+   "year": 2015,
+   "title": "Individualizing prophylaxis in hemophilia: a review",
+   "journal": "Expert Rev Hematol, 8(2), 237–246",
+   "url": "https://doi.org/10.1586/17474086.2015.1002465",
+   "kind": "article"
+  },
+  {
+   "authors": "Rodriguez-Merchan, E. C., & Valentino, L. A.",
+   "year": 2015,
+   "title": "Safety of radiation exposure after radiosynovectomy in paediatric patients with haemophilia",
+   "journal": "Haemophilia, 21(4), 411–418",
+   "url": "https://doi.org/10.1111/hae.12668",
+   "kind": "article"
+  },
+  {
+   "authors": "Rodriguez, V., Mancuso, M. E., Warad, D., Hay, C. R., DiMichele, D. M., Valentino, L., Kenet, G., & Kulkarni, R.",
+   "year": 2015,
+   "title": "Central venous access device (CVAD) complications in Haemophilia with inhibitors undergoing immune tolerance induction: Lessons from the international immune tolerance study",
+   "journal": "Haemophilia, 21(5), e369–374",
+   "url": "https://doi.org/10.1111/hae.12740",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., Cong, L., Enockson, C., Song, X., Scheiflinger, F., Muchitsch, E. M., Turecek, P. L., & Hakobyan, N.",
+   "year": 2015,
+   "title": "The biological efficacy profile of BAX 855, a PEGylated recombinant factor VIII molecule",
+   "journal": "Haemophilia, 21(1), 58–63",
+   "url": "https://doi.org/10.1111/hae.12532",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., & Holme, P. A.",
+   "year": 2015,
+   "title": "Should anti-inhibitor coagulant complex and tranexamic acid be used concomitantly?",
+   "journal": "Haemophilia, 21(6), 709–714",
+   "url": "https://doi.org/10.1111/hae.12723",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., Kempton, C. L., Kruse-Jarres, R., Mathew, P., Meeks, S. L., Reiss, U. M., & International Immune Tolerance Induction Study, I.",
+   "year": 2015,
+   "title": "US Guidelines for immune tolerance induction in patients with haemophilia a and inhibitors",
+   "journal": "Haemophilia, 21(5), 559–567",
+   "url": "https://doi.org/10.1111/hae.12730",
+   "kind": "article"
+  },
+  {
+   "authors": "Leissinger, C., Carcao, M., Gill, J. C., Journeycake, J., Singleton, T., & Valentino, L.",
+   "year": 2014,
+   "title": "Desmopressin (DDAVP) in the management of patients with congenital bleeding disorders",
+   "journal": "Haemophilia, 20(2), 158–167",
+   "url": "https://doi.org/10.1111/hae.12254",
+   "kind": "article"
+  },
+  {
+   "authors": "Leissinger, C., Josephson, C. D., Granger, S., Konkle, B. A., Kruse-Jarres, R., Ragni, M. V., Journeycake, J. M., Valentino, L., Key, N. S., Gill, J. C., McCrae, K. R., Neufeld, E. J., Manno, C., Raffini, L., Saxena, K., Torres, M., Marder, V., Bennett, C. M., & Assmann, S. F.",
+   "year": 2014,
+   "title": "Rituximab for treatment of inhibitors in haemophilia A",
+   "journal": "A Phase II study. Thromb Haemost, 112(3), 445–458",
+   "url": "https://doi.org/10.1160/TH14-01-0078",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A.",
+   "year": 2014,
+   "title": "Matrix-assisted laser desorption/ionization (MALDI) imaging mass spectrometry (IMS): peering into the cup of Jamshid",
+   "journal": "Haemophilia, 20(3), 304–305",
+   "url": "https://doi.org/10.1111/hae.12418",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A.",
+   "year": 2014,
+   "title": "The role of Rixubis in the treatment of hemophilia B",
+   "journal": "Immunotherapy, 6(4), 381–394",
+   "url": "https://doi.org/10.2217/imt.14.17",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A.",
+   "year": 2014,
+   "title": "Considerations in individualizing prophylaxis in patients with haemophilia A",
+   "journal": "Haemophilia, 20(5), 607–615",
+   "url": "https://doi.org/10.1111/hae.12438",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., Negrier, C., Kohla, G., Tiede, A., Liesner, R., Hart, D., & Knaub, S.",
+   "year": 2014,
+   "title": "The first recombinant FVIII produced in human cells--an update on its clinical development programme",
+   "journal": "Haemophilia, 20 Suppl 1, 1– 9",
+   "url": "https://doi.org/10.1111/hae.12322",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., Rusen, L., Elezovic, I., Smith, L. M., Korth-Bradley, J. M., & Rendo, P.",
+   "year": 2014,
+   "title": "Multicentre, randomized, open-label study of on-demand treatment with two prophylaxis regimens of recombinant coagulation factor IX in haemophilia B subjects",
+   "journal": "Haemophilia, 20(3), 398–406",
+   "url": "https://doi.org/10.1111/hae.12344",
+   "kind": "article"
+  },
+  {
+   "authors": "Vyas, S., Enockson, C., Hernandez, L., & Valentino, L. A.",
+   "year": 2014,
+   "title": "Towards personalizing haemophilia care: using the Haemophilia Severity Score to assess 178 patients in a single institution",
+   "journal": "Haemophilia, 20(1), 9–14",
+   "url": "https://doi.org/10.1111/hae.12227",
+   "kind": "article"
+  },
+  {
+   "authors": "Forsyth, A. L., Zourikian, N., Rivard, G. E., & Valentino, L. A.",
+   "year": 2013,
+   "title": "An 'ice age' concept?",
+   "journal": "The use of ice in the treatment of acute haemarthrosis in haemophilia. Haemophilia, 19(6), e393–396",
+   "url": "https://doi.org/10.1111/hae.12265",
+   "kind": "article"
+  },
+  {
+   "authors": "Gelhorn, H., Merikle, E., Krishnan, S., Nemes, L., Leissinger, C., & Valentino, L.",
+   "year": 2013,
+   "title": "Physician preferences for medication attributes for the prophylactic treatment of patients with severe haemophilia A with inhibitors to factor VIII",
+   "journal": "Haemophilia, 19(1), 119–125",
+   "url": "https://doi.org/10.1111/hae.12011",
+   "kind": "article"
+  },
+  {
+   "authors": "Powell, J. S., Pasi, K. J., Ragni, M. V., Ozelo, M. C., Valentino, L. A., Mahlangu, J. N., Josephson, N. C., Perry, D., Manco-Johnson, M. J., Apte, S., Baker, R. I., Chan, G. C., Novitzky, N., Wong, R. S., Krassova, S., Allen, G., Jiang, H., Innes, A., Li, S., . . . Investigators, B. L.",
+   "year": 2013,
+   "title": "Phase 3 study of recombinant factor IX Fc fusion protein in hemophilia B",
+   "journal": "N Engl J Med, 369(24), 2313–2323",
+   "url": "https://doi.org/10.1056/NEJMoa1305074",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., Allen, G., Gill, J. C., Hurlet, A., Konkle, B. A., Leissinger, C. A., Luchtman-Jones, L., Powell, J., Reding, M., & Stine, K.",
+   "year": 2013,
+   "title": "Case studies in the management of refractory bleeding in patients with haemophilia A and inhibitors",
+   "journal": "Haemophilia, 19(3), e151–166",
+   "url": "https://doi.org/10.1111/hae.12095",
+   "kind": "article"
+  },
+  {
+   "authors": "Zimmerman, B., & Valentino, L. A.",
+   "year": 2013,
+   "title": "Hemophilia: in review",
+   "journal": "Pediatr Rev, 34(7), 289–294; quiz 295",
+   "url": "https://doi.org/10.1542/pir.34-7-289",
+   "kind": "article"
+  },
+  {
+   "authors": "Escobar, M., Maahs, J., Hellman, E., Donkin, J., Forsyth, A., Hroma, N., Young, G., Valentino, L. A., Tachdjian, R., Cooper, D. L., & Shapiro, A. D.",
+   "year": 2012,
+   "title": "Multidisciplinary management of patients with haemophilia with inhibitors undergoing surgery in the United States: perspectives and best practices derived from experienced treatment centres",
+   "journal": "Haemophilia, 18(6), 971–981. https://doi.org/10.1111/j.1365- 2516.2012.02894.x",
+   "url": "",
+   "kind": "article"
+  },
+  {
+   "authors": "Forsyth, A. L., Rivard, G. E., Valentino, L. A., Zourikian, N., Hoffman, M., Monahan, P. E., Van Meegeren, M. E., & Forriol, F.",
+   "year": 2012,
+   "title": "Consequences of intra-articular bleeding in haemophilia: science to clinical practice and beyond",
+   "journal": "Haemophilia, 18 Suppl 4, 112–119",
+   "url": "https://doi.org/10.1111/j.1365-2516.2012.02835.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Forsyth, A. L., Zourikian, N., Valentino, L. A., & Rivard, G. E.",
+   "year": 2012,
+   "title": "The effect of cooling on coagulation and haemostasis: should \"Ice\" be part of treatment of acute haemarthrosis in haemophilia?",
+   "journal": "Haemophilia, 18(6), 843–850",
+   "url": "https://doi.org/10.1111/j.1365-2516.2012.02918.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Martinowitz, U., Shapiro, A., Quon, D. V., Escobar, M., Kempton, C., Collins, P. W., Chowdary, P., Makris, M., Mannucci, P. M., Morfini, M., Valentino, L. A., Gomperts, E., & Lee, M.",
+   "year": 2012,
+   "title": "Pharmacokinetic properties of IB1001, an investigational recombinant factor IX, in patients with haemophilia B: repeat pharmacokinetic evaluation and sialylation analysis",
+   "journal": "Haemophilia, 18(6), 881–887",
+   "url": "https://doi.org/10.1111/j.1365-2516.2012.02897.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Shapiro, A. D., Ragni, M. V., Valentino, L. A., Key, N. S., Josephson, N. C., Powell, J. S., Cheng, G., Thompson, A. R., Goyal, J., Tubridy, K. L., Peters, R. T., Dumont, J. A., Euwart, D., Li, L., Hallen, B., Gozzi, P., Bitonti, A. J., Jiang, H., Luk, A., & Pierce, G. F.",
+   "year": 2012,
+   "title": "Recombinant factor IX-Fc fusion protein (rFIXFc) demonstrates safety and prolonged activity in a phase 1/2a study in hemophilia B patients",
+   "journal": "Blood, 119(3), 666–672",
+   "url": "https://doi.org/10.1182/blood-2011-07-367003",
+   "kind": "article"
+  },
+  {
+   "authors": "Simpson, M. L., & Valentino, L. A.",
+   "year": 2012,
+   "title": "Management of joint bleeding in hemophilia",
+   "journal": "Expert Rev Hematol, 5(4), 459–468",
+   "url": "https://doi.org/10.1586/ehm.12.27",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A.",
+   "year": 2012,
+   "title": "A preventive approach to the management of severe hemophilia A",
+   "journal": "Clin Adv Hematol Oncol, 10(3), 185–186",
+   "url": "https://www.ncbi.nlm.nih.gov/pubmed/22402427",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., Hakobyan, N., Enockson, C., Simpson, M. L., Kakodkar, N. C., Cong, L., & Song, X.",
+   "year": 2012,
+   "title": "Exploring the biological basis of haemophilic joint disease: experimental studies",
+   "journal": "Haemophilia, 18(3), 310–318",
+   "url": "https://doi.org/10.1111/j.1365-2516.2011.02669.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., Mamonov, V., Hellmann, A., Quon, D. V., Chybicka, A., Schroth, P., Patrone, L., Wong, W. Y., & Prophylaxis Study, G.",
+   "year": 2012,
+   "title": "A randomized comparison of two prophylaxis regimens and a paired comparison of on-demand and prophylaxis treatments in hemophilia A management",
+   "journal": "J Thromb Haemost, 10(3), 359–367",
+   "url": "https://doi.org/10.1111/j.1538-7836.2011.04611.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., Pipe, S. W., Tarantino, M. D., Ye, X., Xiong, Y., & Luo, M. P.",
+   "year": 2012,
+   "title": "Healthcare resource utilization among haemophilia A patients in the United States",
+   "journal": "Haemophilia, 18(3), 332–338",
+   "url": "https://doi.org/10.1111/j.1365-2516.2011.02677.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., Walsh, C. E., Reding, M. T., Young, G. A., Levendoglu-Tugal, O., & Cooper, D. L.",
+   "year": 2012,
+   "title": "Patient-and caregiver-reported bleeding symptoms and reasons for starting and stopping treatment with recombinant factor VIIa: analysis of the Dosing Observational Study in Haemophilia (DOSE)",
+   "journal": "Haemophilia, 18(4), 554– 560",
+   "url": "https://doi.org/10.1111/j.1365-2516.2012.02762.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Gill, J. C., Shapiro, A., Valentino, L. A., Bernstein, J., Friedman, C., Nichols, W. L., & Manco-Johnson, M.",
+   "year": 2011,
+   "title": "von Willebrand factor/factor VIII concentrate (Humate-P) for management of elective surgery in adults and children with von Willebrand disease",
+   "journal": "Haemophilia, 17(6), 895–905. https://doi.org/10.1111/j.1365- 2516.2011.02534.x",
+   "url": "",
+   "kind": "article"
+  },
+  {
+   "authors": "Rodriguez-Merchan, E. C., Jimenez-Yuste, V., Aznar, J. A., Hedner, U., Knobe, K., Lee, C. A., Ljung, R., Querol, F., Santagostino, E., Valentino, L. A., & Caffarini, A.",
+   "year": 2011,
+   "title": "Joint protection in haemophilia",
+   "journal": "Haemophilia, 17 Suppl 2, 1–23",
+   "url": "https://doi.org/10.1111/j.1365-2516.2011.02615.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Rodriguez-Merchan, E. C., Jimenez-Yuste, V., & Valentino, L. A.",
+   "year": 2011,
+   "title": "An uncommon cause of knee haemarthrosis in an adult haemophilia patient suffering from long-term paraplegia",
+   "journal": "Haemophilia, 17(5), e845–846",
+   "url": "https://doi.org/10.1111/j.1365-2516.2011.02597.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A.",
+   "year": 2011,
+   "title": "Recombinant FIXFc: a novel therapy for the royal disease?",
+   "journal": "Expert Opin Biol Ther, 11(10), 1361–1368",
+   "url": "https://doi.org/10.1517/14712598.2011.603304",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., Cooper, D. L., & Goldstein, B.",
+   "year": 2011,
+   "title": "Surgical experience with rFVIIa (NovoSeven) in congenital haemophilia A and B patients with inhibitors to factors VIII or IX",
+   "journal": "Haemophilia, 17(4), 579–589",
+   "url": "https://doi.org/10.1111/j.1365-2516.2010.02460.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., & Hakobyan, N.",
+   "year": 2011,
+   "title": "Assessment of blood-induced arthritis causes friction",
+   "journal": "Haemophilia, 17(1), e242–243",
+   "url": "https://doi.org/10.1111/j.1365-2516.2010.02374.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., Kawji, M., & Grygotis, M.",
+   "year": 2011,
+   "title": "Venous access in the management of hemophilia",
+   "journal": "Blood Rev, 25(1), 11–15",
+   "url": "https://doi.org/10.1016/j.blre.2010.10.001",
+   "kind": "article"
+  },
+  {
+   "authors": "Beier, U. H., Schmidt, M. L., Hast, H., Kecskes, S., & Valentino, L. A.",
+   "year": 2010,
+   "title": "Control of disseminated intravascular coagulation in Klippel-Trenaunay-Weber syndrome using enoxaparin and recombinant activated factor VIIa: a case report",
+   "journal": "J Med Case Rep, 4, 92",
+   "url": "https://doi.org/10.1186/1752-1947-4-92",
+   "kind": "article"
+  },
+  {
+   "authors": "Ljung, R., van den Berg, M., Valentino, L. A., & Manco-Johnson, M.",
+   "year": 2010,
+   "title": "The Fourth Annual Meeting of the International Network for Pediatric Hemophilia: Current Challenges and Recommendations in the Clinical Care of Children with Hemophilia",
+   "journal": "Transfus Med Hemother, 37(4), 209–212",
+   "url": "https://doi.org/10.1159/000317114",
+   "kind": "article"
+  },
+  {
+   "authors": "Oldenburg, J., Goudemand, J., Valentino, L., Richards, M., Luu, H., Kriukov, A., Gajek, H., Spotts, G., & Ewenstein, B.",
+   "year": 2010,
+   "title": "Postauthorization safety surveillance of ADVATE [antihaemophilic factor (recombinant), plasma/albumin-free method] demonstrates efficacy, safety and low-risk for immunogenicity in routine clinical practice",
+   "journal": "Haemophilia, 16(6), 866–877",
+   "url": "https://doi.org/10.1111/j.1365-2516.2010.02332.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A.",
+   "year": 2010,
+   "title": "Assessing the benefits of FEIBA prophylaxis in haemophilia patients with inhibitors",
+   "journal": "Haemophilia, 16(2), 263–271",
+   "url": "https://doi.org/10.1111/j.1365-2516.2009.02126.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A.",
+   "year": 2010,
+   "title": "Blood-induced joint disease: the pathophysiology of hemophilic arthropathy",
+   "journal": "J Thromb Haemost, 8(9), 1895–1902",
+   "url": "https://doi.org/10.1111/j.1538-7836.2010.03962.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., Ismael, Y., & Grygotis, M.",
+   "year": 2010,
+   "title": "Novel drugs to treat hemophilia",
+   "journal": "Expert Opin Emerg Drugs, 15(4), 597–613",
+   "url": "https://doi.org/10.1517/14728214.2010.506871",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A.",
+   "year": 2009,
+   "title": "The benefits of prophylactic treatment with APCC in patients with haemophilia and high-titre inhibitors: a retrospective case series",
+   "journal": "Haemophilia, 15(3), 733–742. https://doi.org/10.1111/j.1365- 2516.2009.01980.x",
+   "url": "",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A.",
+   "year": 2009,
+   "title": "Controversies regarding the prophylactic management of adults with severe haemophilia A",
+   "journal": "Haemophilia, 15 Suppl 2, 5–18, quiz 19–22",
+   "url": "https://doi.org/10.1111/j.1365-2516.2009.02159.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., Carcao, M., Mathew, P., Leissinger, C. A., Berntorp, E., Blanchette, V., Escuriola-Ettingshausen, C., Ewenstein, B., Ewing, N., Gringeri, A., Hoots, W. K., & Negrier, C.",
+   "year": 2009,
+   "title": "The application of bypassing-agent prophylaxis in haemophilia A patients with inhibitors: a meeting report",
+   "journal": "Haemophilia, 15(4), 959– 965",
+   "url": "https://doi.org/10.1111/j.1365-2516.2008.01953.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., Hakobyan, N., Kazarian, T., Sorensen, B. B., & Tranholm, M.",
+   "year": 2009,
+   "title": "Prevention of haemarthrosis in a murine model of acute joint bleeding",
+   "journal": "Haemophilia, 15(1), 314–319. https://doi.org/10.1111/j.1365- 2516.2008.01870.x",
+   "url": "",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., Recht, M., Dipaola, J., Shapiro, A. D., Pipe, S. W., Ewing, N., Urgo, J., Bullock, T., Simmons, M., & Deguzman, C.",
+   "year": 2009,
+   "title": "Experience with a third generation recombinant factor VIII concentrate (Advate) for immune tolerance induction in patients with haemophilia A",
+   "journal": "Haemophilia, 15(3), 718–726",
+   "url": "https://doi.org/10.1111/j.1365-2516.2008.01960.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Walsh, C. E., & Valentino, L. A.",
+   "year": 2009,
+   "title": "Factor VIII prophylaxis for adult patients with severe haemophilia A: results of a US survey of attitudes and practices",
+   "journal": "Haemophilia, 15(5), 1014–1021. https://doi.org/10.1111/j.1365- 2516.2009.02036.x",
+   "url": "",
+   "kind": "article"
+  },
+  {
+   "authors": "Fischer, K., Valentino, L., Ljung, R., & Blanchette, V.",
+   "year": 2008,
+   "title": "Prophylaxis for severe haemophilia: clinical challenges in the absence as well as in the presence of inhibitors",
+   "journal": "Haemophilia, 14 Suppl 3, 196–201",
+   "url": "https://doi.org/10.1111/j.1365-2516.2008.01736.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Hakobyan, N., Enockson, C., Cole, A. A., Sumner, D. R., & Valentino, L. A.",
+   "year": 2008,
+   "title": "Experimental haemophilic arthropathy in a mouse model of a massive haemarthrosis: gross, radiological and histological changes",
+   "journal": "Haemophilia, 14(4), 804–809",
+   "url": "https://doi.org/10.1111/j.1365-2516.2008.01689.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Kalainov, D. M., & Valentino, L. A.",
+   "year": 2008,
+   "title": "Recombinant activated factor VII as a temporary reversal agent for warfarin anticoagulation: a cautionary report on an off-label application",
+   "journal": "Am J Orthop (Belle Mead NJ), 37(11), 572–574",
+   "url": "https://www.ncbi.nlm.nih.gov/pubmed/19104685",
+   "kind": "article"
+  },
+  {
+   "authors": "Lafeber, F. P., Miossec, P., & Valentino, L. A.",
+   "year": 2008,
+   "title": "Physiopathology of haemophilic arthropathy",
+   "journal": "Haemophilia, 14 Suppl 4, 3–9",
+   "url": "https://doi.org/10.1111/j.1365-2516.2008.01732.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Mejia-Carvajal, C., Hakobyan, N., Enockson, C., & Valentino, L. A.",
+   "year": 2008,
+   "title": "The impact of joint bleeding and synovitis on physical ability and joint function in a murine model of haemophilic synovitis",
+   "journal": "Haemophilia, 14(1), 119– 126",
+   "url": "https://doi.org/10.1111/j.1365-2516.2007.01527.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Ovlisen, K., Kristensen, A. T., Valentino, L. A., Hakobyan, N., Ingerslev, J., & Tranholm, M.",
+   "year": 2008,
+   "title": "Hemostatic effect of recombinant factor VIIa, NN1731 and recombinant factor VIII on needle-induced joint bleeding in hemophilia A mice",
+   "journal": "J Thromb Haemost, 6(6), 969–975",
+   "url": "https://doi.org/10.1111/j.1538-7836.2008.02954.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Sun, J., Hakobyan, N., Valentino, L. A., Feldman, B. L., Samulski, R. J., & Monahan, P. E.",
+   "year": 2008,
+   "title": "Intraarticular factor IX protein or gene replacement protects against development of hemophilic synovitis in the absence of circulating factor IX",
+   "journal": "Blood, 112(12), 4532–4541",
+   "url": "https://doi.org/10.1182/blood-2008-01-131417",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., Hakobyan, N., & Enockson, C.",
+   "year": 2008,
+   "title": "Blood-induced joint disease: the confluence of dysregulated oncogenes, inflammatory signals, and angiogenic cues",
+   "journal": "Semin Hematol, 45(2 Suppl 1), S50–57",
+   "url": "https://doi.org/10.1053/j.seminhematol.2008.03.017",
+   "kind": "article"
+  },
+  {
+   "authors": "Hoots, W. K., Rodriguez, N., Boggio, L., & Valentino, L. A.",
+   "year": 2007,
+   "title": "Pathogenesis of haemophilic synovitis: clinical aspects",
+   "journal": "Haemophilia, 13 Suppl 3, 4–9",
+   "url": "https://doi.org/10.1111/j.1365-2516.2007.01533.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Lambert, T., Recht, M., Valentino, L. A., Powell, J. S., Udata, C., Sullivan, S. T., & Roth, D. A.",
+   "year": 2007,
+   "title": "Reformulated BeneFix: efficacy and safety in previously treated patients with moderately severe to severe haemophilia B",
+   "journal": "Haemophilia, 13(3), 233–243",
+   "url": "https://doi.org/10.1111/j.1365-2516.2007.01458.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Leissinger, C. A., Becton, D. L., Ewing, N. P., & Valentino, L. A.",
+   "year": 2007,
+   "title": "Prophylactic treatment with activated prothrombin complex concentrate (FEIBA) reduces the frequency of bleeding episodes in paediatric patients with haemophilia A and inhibitors",
+   "journal": "Haemophilia, 13(3), 249–255. https://doi.org/10.1111/j.1365- 2516.2007.01442.x",
+   "url": "",
+   "kind": "article"
+  },
+  {
+   "authors": "Manco-Johnson, M. J., Abshire, T. C., Shapiro, A. D., Riske, B., Hacker, M. R., Kilcoyne, R., Ingram, J. D., Manco- Johnson, M. L., Funk, S., Jacobson, L., Valentino, L. A., Hoots, W. K., Buchanan, G. R., DiMichele, D., Recht, M., Brown, D., Leissinger, C., Bleak, S., Cohen, A., . . . Evatt, B. L.",
+   "year": 2007,
+   "title": "Prophylaxis versus episodic treatment to prevent joint disease in boys with severe hemophilia",
+   "journal": "N Engl J Med, 357(6), 535–544",
+   "url": "https://doi.org/10.1056/NEJMoa067659",
+   "kind": "article"
+  },
+  {
+   "authors": "McCarthy, W. J., Valentino, L. A., Bonilla, A. S., Goncharova, I., Taylor, A., Pooley, T. A., & Jacobs, C. E.",
+   "year": 2007,
+   "title": "Arteriovenous fistula for long-term venous access for boys with hemophilia",
+   "journal": "J Vasc Surg, 45(5), 986–990; discussion 990–981",
+   "url": "https://doi.org/10.1016/j.jvs.2006.12.060",
+   "kind": "article"
+  },
+  {
+   "authors": "Pipe, S. W., & Valentino, L. A.",
+   "year": 2007,
+   "title": "Optimizing outcomes for patients with severe haemophilia A",
+   "journal": "Haemophilia, 13 Suppl 4, 1–16; quiz 13 p following 16",
+   "url": "https://doi.org/10.1111/j.1365-2516.2007.01552.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Pruthi, R. K., Mathew, P., Valentino, L. A., Sumner, M. J., Seremetis, S., Hoots, W. K., & NovoSeven in Surgery Study, I.",
+   "year": 2007,
+   "title": "Haemostatic efficacy and safety of bolus and continuous infusion of recombinant factor VIIa are comparable in haemophilia patients with inhibitors undergoing major surgery",
+   "journal": "Results from an open-label, randomized, multicenter trial. Thromb Haemost, 98(4), 726–732",
+   "url": "https://www.ncbi.nlm.nih.gov/pubmed/17938794",
+   "kind": "article"
+  },
+  {
+   "authors": "Rodriguez-Merchan, E. C., Valentino, L., & Quintana, M.",
+   "year": 2007,
+   "title": "Prophylaxis and treatment of chronic synovitis in haemophilia patients with inhibitors",
+   "journal": "Haemophilia, 13 Suppl 3, 45–48. https://doi.org/10.1111/j.1365- 2516.2007.01540.x",
+   "url": "",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., Hakobyan, N., Rodriguez, N., & Hoots, W. K.",
+   "year": 2007,
+   "title": "Pathogenesis of haemophilic synovitis: experimental studies on blood-induced joint damage",
+   "journal": "Haemophilia, 13 Suppl 3, 10–13",
+   "url": "https://doi.org/10.1111/j.1365-2516.2007.01534.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Verma, N., Valentino, L. A., & Chawla, A.",
+   "year": 2007,
+   "title": "Arthroscopic synovectomy in haemophilia: indications, technique and results",
+   "journal": "Haemophilia, 13 Suppl 3, 38–44",
+   "url": "https://doi.org/10.1111/j.1365-2516.2007.01539.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Jabbar, A. A., Kazarian, T., Hakobyan, N., & Valentino, L. A.",
+   "year": 2006,
+   "title": "Gangliosides promote platelet adhesion and facilitate neuroblastoma cell adhesion under dynamic conditions simulating blood flow",
+   "journal": "Pediatr Blood Cancer, 46(3), 292–299",
+   "url": "https://doi.org/10.1002/pbc.20326",
+   "kind": "article"
+  },
+  {
+   "authors": "Luchtman-Jones, L., Valentino, L. A., Manno, C., & Recombinant Therapy Workshop, P.",
+   "year": 2006,
+   "title": "Considerations in the evaluation of haemophilia patients for short-term prophylactic therapy: a paediatric and adult case study",
+   "journal": "Haemophilia, 12(1), 82–86",
+   "url": "https://doi.org/10.1111/j.1365-2516.2005.01171.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Mejia-Carvajal, C., Czapek, E. E., & Valentino, L. A.",
+   "year": 2006,
+   "title": "Life expectancy in hemophilia outcome",
+   "journal": "J Thromb Haemost, 4(3), 507–509",
+   "url": "https://doi.org/10.1111/j.1538-7836.2006.01776.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Prabhu, S., Kazarian, T., Hakobyan, N., Jabbar, A., Dunham, T., & Valentino, L. A.",
+   "year": 2006,
+   "title": "Needles and needleless devices for infusion of anti-haemophilic factor concentrate: impact on protein structure and function",
+   "journal": "Haemophilia, 12(1), 58–61",
+   "url": "https://doi.org/10.1111/j.1365-2516.2005.01168.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A.",
+   "year": 2006,
+   "title": "Use of rFVIIa in 4 children with Glanzmann thrombasthenia",
+   "journal": "J Pediatr Hematol Oncol, 28(10), 653–658",
+   "url": "https://doi.org/10.1097/01.mph.0000212993.49188.73",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., & Hakobyan, N.",
+   "year": 2006,
+   "title": "Histological changes in murine haemophilic synovitis: a quantitative grading system to assess blood-induced synovitis",
+   "journal": "Haemophilia, 12(6), 654–662",
+   "url": "https://doi.org/10.1111/j.1365-2516.2006.01348.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., Martinowitz, U., Doolas, A., & Murali, P.",
+   "year": 2006,
+   "title": "Surgical excision of a giant pelvic pseudotumour in a patient with haemophilia A",
+   "journal": "Haemophilia, 12(5), 541–544. https://doi.org/10.1111/j.1365- 2516.2006.01318.x",
+   "url": "",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., & Oza, V. M.",
+   "year": 2006,
+   "title": "Blood safety and the choice of anti-hemophilic factor concentrate",
+   "journal": "Pediatr Blood Cancer, 47(3), 245–254",
+   "url": "https://doi.org/10.1002/pbc.20895",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., Santagostino, E., Blanchette, V., & van den Berg, M.",
+   "year": 2006,
+   "title": "Managing the pediatric patient and the adolescent/adult transition",
+   "journal": "Semin Thromb Hemost, 32 Suppl 2, 28–31. https://doi.org/10.1055/s- 2006-946912",
+   "url": "",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., & Scheiflinger, F.",
+   "year": 2006,
+   "title": "Future aspects of hemophilia research and care",
+   "journal": "Semin Thromb Hemost, 32 Suppl 2, 32–38",
+   "url": "https://doi.org/10.1055/s-2006-946913",
+   "kind": "article"
+  },
+  {
+   "authors": "Fasano, R., Kent, P., & Valentino, L.",
+   "year": 2005,
+   "title": "Superior vena cava thrombus treated with low-dose, peripherally administered recombinant tissue plasminogen activator in a child: case report and review of the literature",
+   "journal": "J Pediatr Hematol Oncol, 27(12), 692–695",
+   "url": "https://doi.org/10.1097/01.mph.0000194021.40839.05",
+   "kind": "article"
+  },
+  {
+   "authors": "Hakobyan, N., Kazarian, T., & Valentino, L. A.",
+   "year": 2005,
+   "title": "Synovitis in a murine model of human factor VIII deficiency",
+   "journal": "Haemophilia, 11(3), 227–232",
+   "url": "https://doi.org/10.1111/j.1365-2516.2005.01080.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Kent, P., & Valentino, L. A.",
+   "year": 2005,
+   "title": "New anticoagulants in pediatrics",
+   "journal": "Pediatr Blood Cancer, 45(6), 739–740",
+   "url": "https://doi.org/10.1002/pbc.20411",
+   "kind": "article"
+  },
+  {
+   "authors": "Song, J. Y., & Valentino, L.",
+   "year": 2005,
+   "title": "A pregnant patient with renal vein thrombosis successfully treated with low-dose thrombolytic therapy: a case report",
+   "journal": "Am J Obstet Gynecol, 192(6), 2073–2075",
+   "url": "https://doi.org/10.1016/j.ajog.2004.09.022",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., & Kapoor, M.",
+   "year": 2005,
+   "title": "Central venous access devices in patients with hemophilia",
+   "journal": "Expert Rev Med Devices, 2(6), 699–711",
+   "url": "https://doi.org/10.1586/17434440.2.6.699",
+   "kind": "article"
+  },
+  {
+   "authors": "Ewenstein, B. M., Valentino, L. A., Journeycake, J. M., Tarantino, M. D., Shapiro, A. D., Blanchette, V. S., Hoots, W. K., Buchanan, G. R., Manco-Johnson, M. J., Rivard, G. E., Miller, K. L., Geraghty, S., Maahs, J. A., Stuart, R., Dunham, T., & Navickis, R. J.",
+   "year": 2004,
+   "title": "Consensus recommendations for use of central venous access devices in haemophilia",
+   "journal": "Haemophilia, 10(5), 629–648",
+   "url": "https://doi.org/10.1111/j.1365-2516.2004.00943.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Hakobyan, N., Kazarian, T., Jabbar, A. A., Jabbar, K. J., & Valentino, L. A.",
+   "year": 2004,
+   "title": "Pathobiology of hemophilic synovitis I: overexpression of mdm2 oncogene",
+   "journal": "Blood, 104(7), 2060–2064. https://doi.org/10.1182/blood- 2003-12-4231",
+   "url": "",
+   "kind": "article"
+  },
+  {
+   "authors": "Oza, V. M., Jabbar, A. A., Hakobyan, N., Kazarian, T., & Valentino, L. A.",
+   "year": 2004,
+   "title": "Transfusion-transmitted virus is not present in factor IX concentrates commonly used to treat haemophilia B",
+   "journal": "Haemophilia, 10(6), 732–734",
+   "url": "https://doi.org/10.1111/j.1365-2516.2004.01048.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A.",
+   "year": 2004,
+   "title": "Secondary prophylaxis therapy: what are the benefits, limitations and unknowns?",
+   "journal": "Haemophilia, 10(2), 147–157",
+   "url": "https://doi.org/10.1111/j.1365-2516.2003.00870.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., Ewenstein, B., Navickis, R. J., & Wilkes, M. M.",
+   "year": 2004,
+   "title": "Central venous access devices in haemophilia",
+   "journal": "Haemophilia, 10(2), 134–146",
+   "url": "https://doi.org/10.1046/j.1365-2516.2003.00840.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., Hakobyan, N., Kazarian, T., Jabbar, K. J., & Jabbar, A. A.",
+   "year": 2004,
+   "title": "Experimental haemophilic synovitis: rationale and development of a murine model of human factor VIII deficiency",
+   "journal": "Haemophilia, 10(3), 280– 287",
+   "url": "https://doi.org/10.1111/j.1365-2516.2004.00899.x",
+   "kind": "article"
+  },
+  {
+   "authors": "Kazarian, T., Jabbar, A. A., Wen, F. Q., Patel, D. A., & Valentino, L. A.",
+   "year": 2003,
+   "title": "Gangliosides regulate tumor cell adhesion to collagen",
+   "journal": "Clin Exp Metastasis, 20(4), 311–319",
+   "url": "https://doi.org/10.1023/a:1024021707604",
+   "kind": "article"
+  },
+  {
+   "authors": "Wang, M., Hays, T., Balasa, V., Bagatell, R., Gruppo, R., Grabowski, E. F., Valentino, L. A., Tsao-Wu, G., Manco- Johnson, M. J., & Pediatric Coagulation, C.",
+   "year": 2003,
+   "title": "Low-dose tissue plasminogen activator thrombolysis in children",
+   "journal": "J Pediatr Hematol Oncol, 25(5), 379–386",
+   "url": "https://doi.org/10.1097/00043426-200305000-00006",
+   "kind": "article"
+  },
+  {
+   "authors": "Wen, F. Q., Jabbar, A. A., Chen, Y. X., Kazarian, T., Patel, D. A., & Valentino, L. A.",
+   "year": 2002,
+   "title": "c-myc proto-oncogene expression in hemophilic synovitis: in vitro studies of the effects of iron and ceramide",
+   "journal": "Blood, 100(3), 912– 916",
+   "url": "https://doi.org/10.1182/blood-2002-02-0390",
+   "kind": "article"
+  },
+  {
+   "authors": "Berry-Kravis, E., Booth, G., Taylor, A., & Valentino, L. A.",
+   "year": 2001,
+   "title": "Bruising and the ketogenic diet: evidence for diet-induced changes in platelet function",
+   "journal": "Ann Neurol, 49(1), 98–103. https://doi.org/10.1002/1531- 8249(200101)49:1<98::aid-ana13>3.0.co;2-2",
+   "url": "",
+   "kind": "article"
+  },
+  {
+   "authors": "Wen, F. Q., Jabbar, A. A., Patel, D. A., Kazarian, T., & Valentino, L. A.",
+   "year": 1999,
+   "title": "Atherosclerotic aortic gangliosides enhance integrin-mediated platelet adhesion to collagen",
+   "journal": "Arterioscler Thromb Vasc Biol, 19(3), 519–524",
+   "url": "https://doi.org/10.1161/01.atv.19.3.519",
+   "kind": "article"
+  },
+  {
+   "authors": "Fang, L. H., Lucero, M., Kazarian, T., Wei, Q., Luo, F. Y., & Valentino, L. A.",
+   "year": 1997,
+   "title": "Effects of neuroblastoma tumor gangliosides on platelet adhesion to collagen",
+   "journal": "Clin Exp Metastasis, 15(1), 33–40",
+   "url": "https://doi.org/10.1023/a:1018432306372",
+   "kind": "article"
+  },
+  {
+   "authors": "Islam, M. R., Vervoort, R., Lissens, W., Hoo, J. J., Valentino, L. A., & Sly, W. S.",
+   "year": 1996,
+   "title": "beta-Glucuronidase P408S, P415L mutations: evidence that both mutations combine to produce an MPS VII allele in certain Mexican patients",
+   "journal": "Hum Genet, 98(3), 281–284",
+   "url": "https://doi.org/10.1007/s004390050207",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., & Ladisch, S.",
+   "year": 1996,
+   "title": "Tumor gangliosides enhance alpha2 beta1 integrin-dependent platelet activation",
+   "journal": "Biochim Biophys Acta, 1316(1), 19–28",
+   "url": "https://doi.org/10.1016/0925-4439(95)00092-5",
+   "kind": "article"
+  },
+  {
+   "authors": "Ghalie, R., Williams, S. F., Valentino, L. A., Feingold, J., Korenblit, A. D., Adler, S. S., Manson, S., Pruett, J., Cobleigh, M. A., Wolter, J., Lincoln, S. T., Hartsell, W., & Kaizer, H.",
+   "year": 1995,
+   "title": "Tandem peripheral blood progenitor cell transplants as initial therapy for metastatic breast cancer",
+   "journal": "Biol Blood Marrow Transplant, 1(1), 40–46",
+   "url": "https://www.ncbi.nlm.nih.gov/pubmed/9118289",
+   "kind": "article"
+  },
+  {
+   "authors": "Ghalie, R., Reynolds, J., Valentino, L. A., Manson, S., Korenblit, A. D., Feingold, J. M., Adler, S. S., Pruett, J., & Kaizer, H.",
+   "year": 1994,
+   "title": "Busulfan-containing pre-transplant regimens for the treatment of solid tumors",
+   "journal": "Bone Marrow Transplant, 14(3), 437–442",
+   "url": "https://www.ncbi.nlm.nih.gov/pubmed/7994269",
+   "kind": "article"
+  },
+  {
+   "authors": "Ghalie, R., Richman, C. M., Adler, S. S., Cobleigh, M. A., Korenblit, A. D., Manson, S. D., McLeod, B. C., Taylor, S. G. t., Valentino, L. A., Wolter, J., & et al.",
+   "year": 1994,
+   "title": "Treatment of metastatic breast cancer with a split-course high-dose chemotherapy regimen and autologous bone marrow transplantation",
+   "journal": "J Clin Oncol, 12(2), 342– 346",
+   "url": "https://doi.org/10.1200/JCO.1994.12.2.342",
+   "kind": "article"
+  },
+  {
+   "authors": "Grovas, A., Feig, S. A., O'Rourke, S., Valentino, L., Wiley, F., Hunt, L., Landaw, E. M., & Gajewski, J.",
+   "year": 1994,
+   "title": "Unrelated donor bone marrow transplants in children",
+   "journal": "Cell Transplant, 3(5), 413–420",
+   "url": "https://doi.org/10.1177/096368979400300508",
+   "kind": "article"
+  },
+  {
+   "authors": "McLeod, B. C., Reed, S., Viernes, A., & Valentino, L.",
+   "year": 1994,
+   "title": "Rapid red cell transfusion by apheresis",
+   "journal": "J Clin Apher, 9(2), 142–146",
+   "url": "https://doi.org/10.1002/jca.2920090211",
+   "kind": "article"
+  },
+  {
+   "authors": "Olivieri, N. F., Feig, S. A., Valentino, L., Berriman, A. M., Shore, R., & Freedman, M. H.",
+   "year": 1994,
+   "title": "Failure of recombinant human interleukin-3 therapy to induce erythropoiesis in patients with refractory Diamond- Blackfan anemia",
+   "journal": "Blood, 83(9), 2444–2450",
+   "url": "https://www.ncbi.nlm.nih.gov/pubmed/8167334",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., & Ladisch, S.",
+   "year": 1994,
+   "title": "Circulating tumor gangliosides enhance platelet activation",
+   "journal": "Blood, 83(10), 2872–2877",
+   "url": "https://www.ncbi.nlm.nih.gov/pubmed/8180382",
+   "kind": "article"
+  },
+  {
+   "authors": "Ghalie, R., McLeod, B., Richman, C., Valentino, L., Manson, S., Netols, C., & Kaizer, H.",
+   "year": 1992,
+   "title": "Peripheral blood stem cell transplantation: impact on procedure load and workload in an apheresis unit",
+   "journal": "J Clin Apher, 7(4), 201– 207",
+   "url": "https://doi.org/10.1002/jca.2920070408",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L. A., & Ladisch, S.",
+   "year": 1992,
+   "title": "Localization of shed human tumor gangliosides: association with serum lipoproteins",
+   "journal": "Cancer Res, 52(4), 810–814",
+   "url": "https://www.ncbi.nlm.nih.gov/pubmed/1737341",
+   "kind": "article"
+  },
+  {
+   "authors": "Floyd, P. B., Gallagher, P. G., Valentino, L. A., Davis, M., Marchesi, S. L., & Forget, B. G.",
+   "year": 1991,
+   "title": "Heterogeneity of the molecular basis of hereditary pyropoikilocytosis and hereditary elliptocytosis associated with increased levels of the spectrin alpha I/74-kilodalton tryptic peptide",
+   "journal": "Blood, 78(5), 1364–1372",
+   "url": "https://www.ncbi.nlm.nih.gov/pubmed/1878597",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino, L., Moss, T., Olson, E., Wang, H. J., Elashoff, R., & Ladisch, S.",
+   "year": 1990,
+   "title": "Shed tumor gangliosides and progression of human neuroblastoma",
+   "journal": "Blood, 75(7), 1564–1567",
+   "url": "https://www.ncbi.nlm.nih.gov/pubmed/2317562",
+   "kind": "article"
+  },
+  {
+   "authors": "Valentino LA, Ewenstein B, Navickis RJ, Wilkes MM",
+   "title": "Central venous access devices in haemophilia",
+   "journal": "Haemophilia 2004;10(2):134-46",
+   "year": 2004,
+   "url": "",
+   "kind": "review"
+  },
+  {
+   "authors": "Valentino LA, Santagostino E, Blanchette V, van den Berg M",
+   "title": "Managing the pediatric patient and the adolescent/adult transition",
+   "journal": "Semin Thromb Hemost 2006;32 Suppl 2:28-31",
+   "year": 2006,
+   "url": "",
+   "kind": "review"
+  },
+  {
+   "authors": "Valentino LA, Scheiflinger F",
+   "title": "Future aspects of hemophilia research and care",
+   "journal": "Semin Thromb Hemost 2006;32 Suppl 2:32-8",
+   "year": 2006,
+   "url": "",
+   "kind": "review"
+  },
+  {
+   "authors": "Valentino LA",
+   "title": "FEIBA prophylaxis for patients with haemophilia and inhibitors",
+   "journal": "Haemophilia 2006;12 Suppl 5:26-31",
+   "year": 2006,
+   "url": "",
+   "kind": "review"
+  },
+  {
+   "authors": "Rodriguez-Merchan EC, Valentino L, Quintana M",
+   "title": "Prophylaxis and treatment of chronic synovitis in haemophilia patients with inhibitors",
+   "journal": "Haemophilia 2007;13 Suppl 3:45-8",
+   "year": 2007,
+   "url": "",
+   "kind": "review"
+  },
+  {
+   "authors": "Valentino LA, Hakobyan N, Rodriguez N, Hoots WK",
+   "title": "Pathogenesis of haemophilic synovitis: experimental studies on blood-induced joint damage",
+   "journal": "Haemophilia 2007;13 Suppl 3:10-3",
+   "year": 2007,
+   "url": "",
+   "kind": "review"
+  },
+  {
+   "authors": "Hoots WK, Rodriguez N, Boggio L, Valentino LA",
+   "title": "Pathogenesis of haemophilic synovitis: clinical aspects",
+   "journal": "Haemophilia 2007;13 Suppl 3:4-9",
+   "year": 2007,
+   "url": "",
+   "kind": "review"
+  },
+  {
+   "authors": "Valentino LA, McLeod B",
+   "title": "Hemostasis and Transfusion",
+   "journal": "In: Rush University Medical Center Review of Surgery, 4th edition. Philadelphia: Saunders Elsevier; 2007. p. 66-72",
+   "year": 2007,
+   "url": "",
+   "kind": "review"
+  },
+  {
+   "authors": "Verma N, Valentino LA, Chawla A",
+   "title": "Arthroscopic synovectomy in haemophilia: indications, technique and results",
+   "journal": "Haemophilia 2007;13 Suppl 3:38-44",
+   "year": 2007,
+   "url": "",
+   "kind": "review"
+  },
+  {
+   "authors": "Pipe SW, Valentino LA",
+   "title": "Optimizing outcomes for patients with severe haemophilia A",
+   "journal": "Haemophilia 2007;13 Suppl 4:1-16",
+   "year": 2007,
+   "url": "",
+   "kind": "review"
+  },
+  {
+   "authors": "Valentino LA",
+   "title": "Blood flows everywhere",
+   "journal": "AAP News, October 2008",
+   "year": 2008,
+   "url": "",
+   "kind": "review"
+  },
+  {
+   "authors": "Valentino LA, Ismael Y, Grygotis M",
+   "title": "Novel drugs to treat hemophilia",
+   "journal": "Expert Opinion on Emerging Drugs",
+   "year": 2011,
+   "url": "",
+   "kind": "review"
+  },
+  {
+   "authors": "Valentino LA, Kawji M, et al.",
+   "title": "Venous access in the management of hemophilia",
+   "journal": "Blood Rev 2011;25(1):11-15",
+   "year": 2011,
+   "url": "",
+   "kind": "review"
+  },
+  {
+   "authors": "",
+   "title": "Valentino, L., Lee, K., Feig, S.A., Moss, T.J.: Bone marrow donations in small children, in Bone Marrow Transplantation: Current Controversies, R. Champlain and R. P. Gale, Eds., Alan R. Liss Publisher, 1989.",
+   "journal": "",
+   "year": 1989,
+   "url": "",
+   "kind": "chapter"
+  },
+  {
+   "authors": "",
+   "title": "Valentino, L., Ladisch, S.: Detection and significance of GD2 ganglioside in human neuroblastoma, in Neuroblastoma: Tumor Biology and Therapy, C. Pochedly, Ed. CRC Press, 1990.",
+   "journal": "",
+   "year": 1990,
+   "url": "",
+   "kind": "chapter"
+  },
+  {
+   "authors": "",
+   "title": "Valentino, L., Kaizer, H.: Book reviews, Bone marrow transplantation in children, F.L. Johnson, C. Pochedly, Eds., 1990, in J. National Cancer Institute, 1991:83(1)58.",
+   "journal": "",
+   "year": 1991,
+   "url": "",
+   "kind": "chapter"
+  },
+  {
+   "authors": "",
+   "title": "Valentino, L., “Hemostasis and Transfusion”, in Rush University Review of Surgery, 3 rd edition, Saunders, 2000",
+   "journal": "",
+   "year": 2000,
+   "url": "",
+   "kind": "chapter"
+  },
+  {
+   "authors": "",
+   "title": "Valentino, L., Evolution of the Role of Virology in Hemophilia, Evolution in Hemophilia: Advances in the Treatment and Technology continuing Education Program CD-ROM and Supplementary Study Guide",
+   "journal": "",
+   "year": 0,
+   "url": "",
+   "kind": "chapter"
+  },
+  {
+   "authors": "",
+   "title": "Joint Health: A guide for People with Hemophilia and Their Families, CD-ROM, Baxter healthcare, Deerfield, IL",
+   "journal": "",
+   "year": 0,
+   "url": "",
+   "kind": "chapter"
+  },
+  {
+   "authors": "",
+   "title": "Prophylaxis: Advances in Hemophilia Care, Scientific Series No 4, Baxter Bioscience Deerfield, IL, April 2006",
+   "journal": "",
+   "year": 2006,
+   "url": "",
+   "kind": "chapter"
+  },
+  {
+   "authors": "",
+   "title": "Hematologic/Oncologic Disorders, Audrey C Taylor and Leonard A. Valentino in Pediatric Acute Care: A Guide for Interprofessional Practice, Editors, Karin Reuter-Rice and Beth Bolick, Jones & Bartlett Publishers",
+   "journal": "",
+   "year": 0,
+   "url": "",
+   "kind": "chapter"
+  },
+  {
+   "authors": "",
+   "title": "Current and Future Issues in Haemophilia Care, E. C. Rodríguez-Merchán and L. A. Valentino (Editors), John Wiley & Sons Limited, 2011",
+   "journal": "",
+   "year": 2011,
+   "url": "",
+   "kind": "chapter"
+  },
+  {
+   "authors": "",
+   "title": "Prophylaxis in Hemophilia A Patients With Inhibitors, Leonard A. Valentino, MD and Guy Young, M.D in Current and Future Issues in Haemophilia Care, E. C. Rodríguez-Merchán and L. A. Valentino (Editors), John Wiley & Sons Limited, 2011",
+   "journal": "",
+   "year": 2011,
+   "url": "",
+   "kind": "chapter"
+  },
+  {
+   "authors": "",
+   "title": "Experimental studies on hemarthrosis, synovitis and arthropathy, Leonard A. Valentino, MD and Narine Hakobyan in Current and Future Issues in Haemophilia Care, E. C. Rodríguez-Merchán and L. A. Valentino (Editors), John Wiley & Sons Limited, 2011",
+   "journal": "",
+   "year": 2011,
+   "url": "",
+   "kind": "chapter"
+  },
+  {
+   "authors": "",
+   "title": "New Technologies for the Pharmacokinetic Improvement of Coagulation Factor Proteins, Leonard A. Valentino, MD in Current and Future Issues in Haemophilia Care, E. C. Rodríguez-Merchán and L. A. Valentino (Editors), John Wiley & Sons Limited, 2011",
+   "journal": "",
+   "year": 2011,
+   "url": "",
+   "kind": "chapter"
+  },
+  {
+   "authors": "",
+   "title": "New developments on hemophilic arthropathy, E. C. Rodríguez-Merchán and L. A. Valentino in Current and Future Issues in Haemophilia Care, E. C. Rodríguez-Merchán and L. A. Valentino (Editors), John Wiley & Sons Limited, 2011",
+   "journal": "",
+   "year": 2011,
+   "url": "",
+   "kind": "chapter"
+  },
+  {
+   "authors": "",
+   "title": "Genetics of Hemophilia A and B, P.A. Sanchez-Lara and L.A. Valentino in Advances in Hemophilia Treatment, Advances in Hemophilia Treatment: From Genetics to Joint Health, Editors: E. Carlos Rodríguez-Merchán, Springer, 2022",
+   "journal": "",
+   "year": 2022,
+   "url": "",
+   "kind": "chapter"
+  },
+  {
+   "authors": "",
+   "title": "Future Therapies for Hemophilia, P.A. Sanchez-Lara, J. Nathanson and L.A. Valentino in Advances in Hemophilia Treatment, Advances in Hemophilia Treatment: From Genetics to Joint Health, Editors: E. Carlos Rodríguez-Merchán, Springer, 2022",
+   "journal": "",
+   "year": 2022,
+   "url": "",
+   "kind": "chapter"
+  }
+ ],
+ "presentations": [
+  {
+   "title": "Pediatric clerkship lectures, University of Illinois School of Medicine, Chicago, Illinois, 1986-1987: \"Approach to Lymphadenopathy\" \"Rashes in Children\" \"Approach to Abdominal Masses in Children\" \"Henoch-Scholein Purpura\" \"Fever, Elevated E.S.R., and Lymphadenopathy: Case Presentation & Differential Diagnosis of Acute Leukemia\"",
+   "event": "",
+   "year": 1987,
+   "kind": "lecture"
+  },
+  {
+   "title": "Neuroblastoma",
+   "event": "Department of Pediatrics, University of Illinois Medical Center, Chicago, Illinois, March 2, 1986",
+   "year": 1986,
+   "kind": "lecture"
+  },
+  {
+   "title": "Childhood Rashes",
+   "event": "Department of Oral Surgery, University of Illinois School of Dentistry, Chicago, Illinois, Oct. 2, 1986",
+   "year": 1986,
+   "kind": "lecture"
+  },
+  {
+   "title": "Kawasaki Syndrome",
+   "event": "Department of Pediatrics, University of Illinois Medical Center, Chicago, Illinois, April 27, 1987",
+   "year": 1987,
+   "kind": "lecture"
+  },
+  {
+   "title": "Pediatrics clerkship lectures, UCLA School of Medicine, Los Angeles, California, 1987-1988: \"Approach to Anemia\" \"Childhood Leukemia\" \"Introduction to Hemostasis\"",
+   "event": "",
+   "year": 1988,
+   "kind": "lecture"
+  },
+  {
+   "title": "Leukemia in Childhood",
+   "event": "Department of Pediatrics, UCLA School of Medicine, Los Angeles, California, Nov. 6, 1987",
+   "year": 1987,
+   "kind": "lecture"
+  },
+  {
+   "title": "Use of a Seven Week Old Infant as a Donor of Bone Marrow",
+   "event": "Los Angeles Bone Marrow Transplant Meeting, Los Angeles, California, January 8, 1988",
+   "year": 1988,
+   "kind": "lecture"
+  },
+  {
+   "title": "Approach to the Bleeding Patient",
+   "event": "Department of Pediatrics, UCLA School of Medicine, Los Angeles, California, March 16, 1988",
+   "year": 1988,
+   "kind": "lecture"
+  },
+  {
+   "title": "Hemoglobin, 1988",
+   "event": "Department of Pediatrics Grand Rounds, UCLA School of Medicine, Los Angeles, California, Sept. 30, 1988",
+   "year": 1988,
+   "kind": "lecture"
+  },
+  {
+   "title": "Use of Unrelated Donors for Bone Marrow Transplantation",
+   "event": "Southern California Chapter of the Association of Pediatric Oncology Nurses, Los Angeles, California, October, 4, 1988",
+   "year": 1988,
+   "kind": "lecture"
+  },
+  {
+   "title": "Aplastic Anemia",
+   "event": "Division of Hematology-Oncology, Department of Pediatrics, Los Angeles County Hospital USC Medical Center, Los Angeles, California, October 7, 1988",
+   "year": 1988,
+   "kind": "lecture"
+  },
+  {
+   "title": "Unrelated Donors for Bone Marrow Transplants",
+   "event": "Division of Hematology/Oncology, Departments of Pediatrics and Medicine, University of Chicago School of Medicine, Chicago, Illinois, November 8, 1988",
+   "year": 1988,
+   "kind": "lecture"
+  },
+  {
+   "title": "Hereditary Spherocytosis and Other Erythrocyte Membrane Disorders",
+   "event": "Department of Pediatrics, Saint John's Hospital, Santa Monica, CA., December 8, 1988",
+   "year": 1988,
+   "kind": "lecture"
+  },
+  {
+   "title": "GD2 Ganglioside in Neuroblastoma",
+   "event": "Los Angeles Bone Marrow Transplant Meeting, Los Angeles, California, April 25, 1989",
+   "year": 1989,
+   "kind": "lecture"
+  },
+  {
+   "title": "Childhood Immune Thrombocytopenic Purpura",
+   "event": "Department of Pediatrics Grand Rounds, UCLA School of Medicine, Olive View Medical Center, Los Angeles, California, May 17, 1989",
+   "year": 1989,
+   "kind": "lecture"
+  },
+  {
+   "title": "Unrelated Donors for Bone Marrow Transplants",
+   "event": "Southern California Chapter of the Association of Pediatric Oncology Nurses, Los Angeles, California, May 31, 1989",
+   "year": 1989,
+   "kind": "lecture"
+  },
+  {
+   "title": "Approach to the Bleeding Child",
+   "event": "Department of Pediatrics Grand Rounds, UCLA School of Medicine, Los Angeles, California, July 28, 1989",
+   "year": 1989,
+   "kind": "lecture"
+  },
+  {
+   "title": "Tumor Gangliosides Influence Patient Outcome in Human Neuroblastoma",
+   "event": "Division of Hematology/Oncology Research Conference, Department of Pediatrics, UCLA School of Medicine, Los Angeles, California, October 18, 1989",
+   "year": 1989,
+   "kind": "lecture"
+  },
+  {
+   "title": "Thrombosis and Thrombolysis in Pediatrics",
+   "event": "Division of Hematology/Oncology, Department of Pediatrics, UCLA School of Medicine, Los Angeles, California, November 21, 1989",
+   "year": 1989,
+   "kind": "lecture"
+  },
+  {
+   "title": "Solid Tumors in Children",
+   "event": "Department of Pediatrics, UCLA School of Medicine, Los Angeles, California, December 12, 1989",
+   "year": 1989,
+   "kind": "lecture"
+  },
+  {
+   "title": "Anemia: An Interactive Grand Rounds",
+   "event": "Department of Pediatrics Grand Rounds, UCLA School of Medicine, Los Angeles, California, February 9, 1990",
+   "year": 1990,
+   "kind": "lecture"
+  },
+  {
+   "title": "Clinical Aspects of Neuroblastoma",
+   "event": "and \"Tumor Ganglioside, Research\" Division of Hematology/ Oncology Research Seminar: Advances in Oncology, Department of Medicine, UCLA School of Medicine, Veterans Administration Medical Center, Sepulvda, California, April 24, 1990",
+   "year": 1990,
+   "kind": "lecture"
+  },
+  {
+   "title": "Pediatric Bone Marrow Transplantation: Issues, Perspectives and Prospects",
+   "event": "Grand Rounds, Department of Pediatrics, University of Illinois School of Medicine and Medical Center, Chicago, Illinois, November 14, 1990",
+   "year": 1990,
+   "kind": "lecture"
+  },
+  {
+   "title": "Bone Marrow Transplantation in Children: Who, What, Why and How",
+   "event": "Grand Rounds, Department of Pediatrics, Kunstadter Children's Hospital, Michael Reese Hospital and Medical Center, Chicago, Illinois, March 15, 1991",
+   "year": 1991,
+   "kind": "lecture"
+  },
+  {
+   "title": "Tumor Cell Gangliosides: Their Role in Tumor Metastasis",
+   "event": "Tumor Cell Biology Lecture Series: Selected topics in Lipids and Cell Biology, Rush Cancer Center, Rush Medical College, Chicago, Illinois, May 30, 1991",
+   "year": 1991,
+   "kind": "lecture"
+  },
+  {
+   "title": "Pediatric Bone Marrow Transplantation: Therapy for Acute Leukemia",
+   "event": "Grand Rounds, Department of Pediatrics, Cook County Hospital, Chicago, Illinois, July 7, 1991",
+   "year": 1991,
+   "kind": "lecture"
+  },
+  {
+   "title": "Thrombosis and Thrombolysis: Perspectives for Pediatrics",
+   "event": "Grand Rounds, Department of Pediatrics, Rush Medical College and Rush-Presbyterian-St. Luke's Medical Center, Chicago, Illinois, September 30, 1991",
+   "year": 1991,
+   "kind": "lecture"
+  },
+  {
+   "title": "Gangliosides and Cell Adhesion",
+   "event": "Research Conference , Department of Immunology/Microbiology, Rush Medical College, Chicago, Illinois, March 1, 1992",
+   "year": 1992,
+   "kind": "lecture"
+  },
+  {
+   "title": "Tumor Gangliosides in Metastasis",
+   "event": "Research Conference, Department of Pediatrics, Rush Medical College and Rush-Presbyterian-St. Luke's Medical Center, Chicago, Illinois, March 23, 1992",
+   "year": 1992,
+   "kind": "lecture"
+  },
+  {
+   "title": "Selectins and Tumor Metastasis",
+   "event": "Rush Cancer Institute Lecture, Rush Medical College and Rush- Presbyterian-St. Luke's Medical Center, Chicago, Illinois, March 23, 1993",
+   "year": 1993,
+   "kind": "lecture"
+  },
+  {
+   "title": "Tumor Metastasis: A Sticky Union of Hematology and Oncology",
+   "event": "Rush Cancer Institute Lecture, Rush Medical College and Rush- Presbyterian-St. Luke's Medical Center, Chicago, Illinois, September 13, 1993",
+   "year": 1993,
+   "kind": "lecture"
+  },
+  {
+   "title": "Bone Marrow Transplantation in Children",
+   "event": "Grand Rounds, Department of Pediatrics, University of Illinois School of Medicine and Medical Center, Chicago, Illinois, September 15, 1993",
+   "year": 1993,
+   "kind": "lecture"
+  },
+  {
+   "title": "Bone Marrow Transplantation in Children",
+   "event": "Grand Rounds, Department of Pediatrics, Kunstadter Children's Hospital, Michael Reese Hospital and Medical Center, Chicago, Illinois, September 17, 1993",
+   "year": 1993,
+   "kind": "lecture"
+  },
+  {
+   "title": "Bone Marrow and Hematopoietic Stem Cell Transplantation",
+   "event": "Specialty Review in Pediatric Hematology/Oncology, National Center for Advanced Medical Education, Chicago, Illinois, Oct. 10-12, 1994",
+   "year": 1994,
+   "kind": "lecture"
+  },
+  {
+   "title": "Modulation of Integrin Activity by Gangliosides",
+   "event": "Neuroresearch Workshop, Chicago Institute for Neurosurgery and Neuroresearch, Chicago, Illinois, Oct. 20-21, 1994",
+   "year": 1994,
+   "kind": "lecture"
+  },
+  {
+   "title": "Mechanisms of Cell Adhesion",
+   "event": "Cell Biology II, The Graduate College, Rush University, Chicago, Illinois, May 4, 1995",
+   "year": 1995,
+   "kind": "lecture"
+  },
+  {
+   "title": "Core lectures (4 hours) on Hemostasis and Thrombosis for Pediatric Housestaff, Department of Pediatrics, Rush-Presbyterian-St. Luke’s Medical Center, Chicago, Illinois, 1995.",
+   "event": "",
+   "year": 1995,
+   "kind": "lecture"
+  },
+  {
+   "title": "Marrow Transplantation for Mucopolysaccharidosis Type VII",
+   "event": "Marrow Transplantation in Children, Current Results and Controversies Meeting #2, Hilton Head, South Carolina, June 1-4, 1995",
+   "year": 1995,
+   "kind": "lecture"
+  },
+  {
+   "title": "Umbilical Cord Blood Stem Cells: Uses and Controversies",
+   "event": "Grand Rounds, Rush Children’s Hospital, Chicago, Illinois, January 5, 1996",
+   "year": 1996,
+   "kind": "lecture"
+  },
+  {
+   "title": "Cell Adhesion Molecules",
+   "event": "Cell Biology II, The Graduate College, Rush University, Chicago, Illinois, April 30, 1996",
+   "year": 1996,
+   "kind": "lecture"
+  },
+  {
+   "title": "Signaling by Cell Adhesion Molecules",
+   "event": "Cell Biology II, The Graduate College, Rush University, Chicago, Illinois, May 2, 1996",
+   "year": 1996,
+   "kind": "lecture"
+  },
+  {
+   "title": "Hematologic Potpourri",
+   "event": "Grand Rounds, Rush Children’s Hospital, Chicago, Illinois, July 12, 1996",
+   "year": 1996,
+   "kind": "lecture"
+  },
+  {
+   "title": "Neuroblastoma Research",
+   "event": "Women’s Board, Rush-Presbyterian-St. Luke’s Medical Center, Chicago, Illinois, August 14, 1997",
+   "year": 1997,
+   "kind": "lecture"
+  },
+  {
+   "title": "Practical Hemostasis",
+   "event": "Acute Care Nurse Practitioner Core Lecture Series, The Graduate College, Rush University, Chicago, Illinois, August, 20, 1996",
+   "year": 1996,
+   "kind": "lecture"
+  },
+  {
+   "title": "Bone Marrow Transplantation",
+   "event": "Specialty Review in Pediatric Hematology/Oncology, National Center for Advanced Medical Education, Chicago, Illinois, September 26, 1996",
+   "year": 1996,
+   "kind": "lecture"
+  },
+  {
+   "title": "Effects of Neuroblastoma Tumor Gangliosides in Integrin Function Modulation of Cell Adhesion and Signaling",
+   "event": "Chicago Institute for Neurosurgery and Neuroresearch, Chicago, Illinois, October 10, 1996",
+   "year": 1996,
+   "kind": "lecture"
+  },
+  {
+   "title": "von Willebrand Disease",
+   "event": "Rush Children’s Hospital, Chicago, Illinois, October 23, 1996",
+   "year": 1996,
+   "kind": "lecture"
+  },
+  {
+   "title": "Hematopoietic Stem Cell Transplantation",
+   "event": "Grand Rounds, Department of Pediatrics, University of Illinois School of Medicine, Chicago, Illinois, November 20, 1996",
+   "year": 1996,
+   "kind": "lecture"
+  },
+  {
+   "title": "Hematopoietic Stem Cell Transplantation",
+   "event": "Grand Rounds, Department of Pediatrics, Kunstadter Children's Hospital, Michael Reese Hospital and Medical Center, Chicago, Illinois, November 22, 1996",
+   "year": 1996,
+   "kind": "lecture"
+  },
+  {
+   "title": "Mechanisms of Cell Adhesion",
+   "event": "Cell Biology I, The Graduate College, Rush University, Chicago, Illinois, yearly, winter quarter",
+   "year": null,
+   "kind": "lecture"
+  },
+  {
+   "title": "Signaling by Cell Adhesion Molecules",
+   "event": "Cell Biology II, The Graduate College, Rush University, Chicago, Illinois, yearly, spring quarter",
+   "year": null,
+   "kind": "lecture"
+  },
+  {
+   "title": "Focal Adhesion Kinase: A Paradigm for Signaling Complexes",
+   "event": "Molecular Biology, The Graduate College, Rush University, Chicago, Illinois, yearly, spring quarter",
+   "year": null,
+   "kind": "lecture"
+  },
+  {
+   "title": "Introduction to Hemophilia",
+   "event": "General Practice Dental Residency Program, University of Illinois School of Dentistry, Chicago, Illinois, January 16, 1998",
+   "year": 1998,
+   "kind": "lecture"
+  },
+  {
+   "title": "Regulation of Integrin Function",
+   "event": "Seminar Series, Department of Immunology/ Microbiology, RUSH University, Chicago, Illinois, January 26, 1998",
+   "year": 1998,
+   "kind": "lecture"
+  },
+  {
+   "title": "Integrins in Health and Disease",
+   "event": "Seminar Series, Hematology-Oncology, University of Connecticut School of Medicine, Farmington, CT, March 19, 1998",
+   "year": 1998,
+   "kind": "lecture"
+  },
+  {
+   "title": "Clinical Manifestations in the Young Child with Sickle Cell Disease (SCD) & Need for Early Diagnosis",
+   "event": "at RUSH- Presbyterian- St. Luke’s Medical Center and Cook County Children’s Hospital Conference: Newborn Screening for Sickle Hemoglobinopathies, Hillside, IL October 3, 1998",
+   "year": 1998,
+   "kind": "lecture"
+  },
+  {
+   "title": "Newborn Screening for Sickle Hemoglobinopathies",
+   "event": "Rush-Presbyterian-St. Luke’s Medical Center, Chicago, Illinois, October 3, 1998",
+   "year": 1998,
+   "kind": "lecture"
+  },
+  {
+   "title": "Thrombophilia and Low Molecular Weight Heparins",
+   "event": "Tumor Conference at St. Louis University Health Sciences Center, St. Louis University School of Medicine, St. Louis, Missouri. April 21, 1999",
+   "year": 1999,
+   "kind": "lecture"
+  },
+  {
+   "title": "Venous Thromboembolism and Thrombophilia",
+   "event": "Rush-Presbyterian-St. Luke’s Medical Center, Chicago, Illinois, November 16, 2000",
+   "year": 2000,
+   "kind": "lecture"
+  },
+  {
+   "title": "The Marriage of Blood Coagulation and Cell Biology: Implications for Tumor Metastasis and Atherosclerosis",
+   "event": "Department of Immunology/Microbiology, Rush University, Chicago, Illinois, November 2, 2000",
+   "year": 2000,
+   "kind": "lecture"
+  },
+  {
+   "title": "Tumor Cells Walk the Plank",
+   "event": "Rush University Forum for Research and Clinical Investigation, Rush University, Chicago, Illinois, March 28, 2000",
+   "year": 2000,
+   "kind": "lecture"
+  },
+  {
+   "title": "Low Molecular Weight Heparins and Lab Monitoring",
+   "event": "Pediatric Critical Car Nursing Conference, November 10-13, 1999, Chicago, Illinois",
+   "year": 1999,
+   "kind": "lecture"
+  },
+  {
+   "title": "Bleeding Disorders In Children",
+   "event": "Sherman/Provena Saint Joseph CME Consortium, Elgin, Illinois, Oct.2, 1999",
+   "year": 1999,
+   "kind": "lecture"
+  },
+  {
+   "title": "Coagulation: The Next Millennium",
+   "event": "Department of Pediatrics, Mattel Children’s Hospital at UCLA, Los Angeles, CA, July 23, 1999",
+   "year": 1999,
+   "kind": "lecture"
+  },
+  {
+   "title": "Viral Safety and Choice of Factor Concentrate, National Hemophilia Foundation, Anaheim, CA, November, 2000.",
+   "event": "",
+   "year": 2000,
+   "kind": "lecture"
+  },
+  {
+   "title": "Viral Safety and Choice of Factor Concentrate, American Society of Hematology, San Francisco, CA, December, 2000",
+   "event": "",
+   "year": 2000,
+   "kind": "lecture"
+  },
+  {
+   "title": "Gene Therapy 2001",
+   "event": "Hemophilia: 2001 and Beyond, Hemophilia Foundation of Southern California, Children’s Hospital Los Angeles Family Information Day, April 21, 2001, Los Angeles, CA",
+   "year": 2001,
+   "kind": "lecture"
+  },
+  {
+   "title": "Blood Safety",
+   "event": "The Evolution of Hemophilia Care, Annual Meeting of the American Society of Pediatric Hematology/Oncology, Baltimore, MD April 25, 2001",
+   "year": 2001,
+   "kind": "lecture"
+  },
+  {
+   "title": "Tissue Factor and Allograft Rejection at 6th NovoNordisk Symposium on the Treatment of Bleeding and Thrombotic Disorders. Denmark, May, 2001",
+   "event": "",
+   "year": 2001,
+   "kind": "lecture"
+  },
+  {
+   "title": "Hemophilia in the Child with Inhibitors",
+   "event": "RUSH Children's Hospital Grand Rounds, September 21, 2001",
+   "year": 2001,
+   "kind": "lecture"
+  },
+  {
+   "title": "Addressing patient expectations - the role of the physician in determining treatment",
+   "event": "and \"Managing inhibitors: Marrying literature to experiences\" Australian Advate Educational Symposium, Sydney Australia, January 24, 2007",
+   "year": 2007,
+   "kind": "lecture"
+  },
+  {
+   "title": "Case studies using Advate for the treatment of severe hemophilia A",
+   "event": "\"Algorithm for choosing FVIII products for therapy of patients with severe hemophilia A,\" and \"Utilization of FEIBA to treat hemophilia A patients with inhibitors\" University of Tsukuba, Tokyo Japan, July 30, 2007",
+   "year": 2007,
+   "kind": "lecture"
+  },
+  {
+   "title": "Hemophilia: an introduction",
+   "event": "\"Therapeutic practices in the management of patients with hemophilia\" University of the Ryukyus, Okinawa Japan, July 31, 2007",
+   "year": 2007,
+   "kind": "lecture"
+  },
+  {
+   "title": "Hemophilic synovitis: human and animal studies",
+   "event": "\"Case studies using Advate for the treatment of severe hemophilia A,\" and \"Utilization of FEIBA to treat hemophilia A patients with inhibitors\" Nagoya University, Nagoya Japan August 1, 2008",
+   "year": 2008,
+   "kind": "lecture"
+  },
+  {
+   "title": "Case studies using Advate for the treatment of severe hemophilia A",
+   "event": "\"Algorithm for choosing FVIII products for therapy of patients with severe hemophilia A,\" Kanagawa Children’s Hospital, August 2, 2007",
+   "year": 2007,
+   "kind": "lecture"
+  },
+  {
+   "title": "Case studies using Advate for the treatment of severe hemophilia A",
+   "event": "and \"Therapeutic practices in the management of patients with hemophilia\" Ohta Nishinouchi Hospital, Fukushima, Japan, August 3, 2007",
+   "year": 2007,
+   "kind": "lecture"
+  },
+  {
+   "title": "Building for the future of healthcare in Illinois: Statewide electronic medical record.",
+   "event": "Ad Hoc Advisory Committee on Health Care, January 14, 2008",
+   "year": 2008,
+   "kind": "lecture"
+  },
+  {
+   "title": "Diagnosis and management of immune thrombocytopenic purpura in children",
+   "event": "Rush University Medical Center, Chicago, Illinois, February 6, 2008",
+   "year": 2008,
+   "kind": "lecture"
+  },
+  {
+   "title": "Joint disease in hemophilia: Clinical and Experimental aspects",
+   "event": "Hematology/Oncology Grand Rounds, Los Angeles Children’s Hospital, Los Angeles, CA February 27, 2008",
+   "year": 2008,
+   "kind": "lecture"
+  },
+  {
+   "title": "When the bleeding does not stop",
+   "event": "Hematology/Oncology Fellow Rounds, Los Angeles Children’s Hospital, Los Angeles, CA February 27, 2008",
+   "year": 2008,
+   "kind": "lecture"
+  },
+  {
+   "title": "Assessing the need for prophylaxis in inhibitor patients",
+   "event": "Hemophilia Research Study Update, Rome, Italy April 6, 2008",
+   "year": 2008,
+   "kind": "lecture"
+  },
+  {
+   "title": "Immune tolerance induction with Advate",
+   "event": "Baxter PASS/PAIR Investigator meeting, Chicago, IL April 16, 2008",
+   "year": 2008,
+   "kind": "lecture"
+  },
+  {
+   "title": "Assessing the need for prophylaxis in inhibitor patients",
+   "event": "XX Congress of the Central Latin American Hemostasis and Thrombosis, Buenos Aires Argentina, April 25, 2008",
+   "year": 2008,
+   "kind": "lecture"
+  },
+  {
+   "title": "Hemophilia and Thrombosis Research Society: Who we are and what is our mission?",
+   "event": "21st Annual Meeting American Society of Pediatric Hematology/Oncology, Cincinnati, OH, May 14, 2008",
+   "year": 2008,
+   "kind": "lecture"
+  },
+  {
+   "title": "Prophylaxis for Inhibitor Patients: A debate on FEIBA verses rFVIIa",
+   "event": "21st Annual Meeting American Society of Pediatric Hematology/Oncology, Cincinnati, OH, May 14, 2008",
+   "year": 2008,
+   "kind": "lecture"
+  },
+  {
+   "title": "Disseminated Intravascular Coagulation",
+   "event": "The Department of Pediatrics Grand Rounds, The University of Chicago Comer Children’s Hospital, September 18, 2008",
+   "year": 2008,
+   "kind": "lecture"
+  },
+  {
+   "title": "Disseminated Intravascular Coagulation",
+   "event": "10th Annual Southwest Pediatric and Neonatal Hematology/Oncology for the Practitioner, The University of New Mexico, Albuquerque, New Mexico, September 20, 2008",
+   "year": 2008,
+   "kind": "lecture"
+  },
+  {
+   "title": "2009 Musculoskeletal Congress of the World Federation of Hemophilia held in Cartagena, Colombia.",
+   "event": "",
+   "year": 2009,
+   "kind": "lecture"
+  },
+  {
+   "title": "Prophylaxis in inhibitor patients",
+   "event": "2009 Baxter Hemophilia Research Study Update, San Antonio, TX May 14, 2009",
+   "year": 2009,
+   "kind": "lecture"
+  },
+  {
+   "title": "Moderator of science platform session at the 2009 Pediatric Academic Societies’ Annual Meeting, Baltimore, MD, May 2, 2009",
+   "event": "",
+   "year": 2009,
+   "kind": "lecture"
+  },
+  {
+   "title": "Changes in life expectancy and quality of life",
+   "event": "2009 Plasma Protein Forum, Plasma Protein Therapeutics Association (PPTA), Washington, DC, June 3, 2009",
+   "year": 2009,
+   "kind": "lecture"
+  },
+  {
+   "title": "Immune Tolerance Induction",
+   "event": "2nd Annual Canadian Hemophilia Physician Update, June 6, 2009, Québec, Canada",
+   "year": 2009,
+   "kind": "lecture"
+  },
+  {
+   "title": "Patterns of Bleeding in Hemophilia",
+   "event": "in Patients Advances in Hemostasis and Thrombosis Symposium, April 14, 2010, Chicago, IL",
+   "year": 2010,
+   "kind": "lecture"
+  },
+  {
+   "title": "FVIIa in Animal Models",
+   "event": "in 5th Symposium on Hemostasis, The Carolina Inn, Chapel Hill, North Carolina, April 30-May 1, 2010",
+   "year": 2010,
+   "kind": "lecture"
+  },
+  {
+   "title": "Theory and Practice of Hemophilia Prophylaxis with & without inhibitors",
+   "event": "Korea Hemophilia Foundation Clinic, Seoul, Korea, May 26, 2010",
+   "year": 2010,
+   "kind": "lecture"
+  },
+  {
+   "title": "The challenges of managing severe hemophilia inhibitor cases",
+   "event": "Samsung Medical Center, Seoul, Korea, May 27, 2010",
+   "year": 2010,
+   "kind": "lecture"
+  },
+  {
+   "title": "Von Willebrand Disease",
+   "event": "Seoul National University Children’s Hospital Seoul, Korea, May 28, 2010",
+   "year": 2010,
+   "kind": "lecture"
+  },
+  {
+   "title": "Inhibitor management",
+   "event": "The Jichi Medical University Hospital, Tochigi-ken, Japan, June 1, 2010",
+   "year": 2010,
+   "kind": "lecture"
+  },
+  {
+   "title": "Inhibitor treatments for difficult-to-control clinical cases",
+   "event": "International Medical Center, Tokyo, Japan, June 2, 2010",
+   "year": 2010,
+   "kind": "lecture"
+  },
+  {
+   "title": "Prophylaxis studies: Patient related variables",
+   "event": "in 8th Inhibitor Workshop for Opinion Leaders in Hemophilia, June 16, 2010, Gdansk, Poland,",
+   "year": 2010,
+   "kind": "lecture"
+  },
+  {
+   "title": "Controversies regarding the prophylactic management of adults with severe haemophilia A",
+   "event": "Latin American and South American Hemophilia Symposium, Cancun, Mexico, March 11, 2011",
+   "year": 2011,
+   "kind": "lecture"
+  },
+  {
+   "title": "Caring for patients with central venous catheters: Maintaining patency",
+   "event": "American Association of Critical Care Nurses 2011 National Teaching Institute and Critical Care Exposition, April 30-May 5, 2011, Chicago, IL",
+   "year": 2011,
+   "kind": "lecture"
+  },
+  {
+   "title": "Use of small children as donors of bone marrow",
+   "event": "Western Society for Pediatric Research Plenary Session March 14, 1988",
+   "year": 1988,
+   "kind": "abstract"
+  },
+  {
+   "title": "Circulating gangliosides are predictive of clinical outcome in neuroblastoma",
+   "event": "American Society of Hematology, Poster Session, December 1988",
+   "year": 1988,
+   "kind": "abstract"
+  },
+  {
+   "title": "Factors predictive of disease free survival (DFS) after bone marrow transplantation (BMT) of children with acute leukemia (AL)",
+   "event": "The American Pediatric Society and The Society for Pediatric Research meeting, Hematology & Oncology II (Subspecialty Platform Session), May 2, 1991",
+   "year": 1991,
+   "kind": "abstract"
+  },
+  {
+   "title": "Incidence and severity of acute graft versus host disease (AGVHD) are related to the rate of myeloid engraftment following bone marrow transplantation (BMT)",
+   "event": "International Society of Experimental Hematology meeting, July 25, 1991",
+   "year": 1991,
+   "kind": "abstract"
+  },
+  {
+   "title": "Collagen-stimulated platelet aggregation is enhanced by prior exposure of platelets to gangliosides",
+   "event": "University Research Week, Rush Medical College, April 15, 1992",
+   "year": 1992,
+   "kind": "abstract"
+  },
+  {
+   "title": "Human neuroblastoma gangliosides enhance platelet sensitivity to the activating effects of collagen by a VLA-2-dependent pathway",
+   "event": "American Society of Hematology meeting, December 5, 1992",
+   "year": 1992,
+   "kind": "abstract"
+  },
+  {
+   "title": "Gangliosides increase Mg++ dependent platelet adhesion by enhancing the interaction of collagen with VLA-2",
+   "event": "Poster Session American Society of Pediatric Hematology/Oncology meeting, August 1993",
+   "year": 1993,
+   "kind": "abstract"
+  },
+  {
+   "title": "Ganglioside oligosaccharide structure influences  integrin function",
+   "event": "Poster Session American Society of Pediatric Hematology/Oncology meeting, August 1994",
+   "year": 1994,
+   "kind": "abstract"
+  },
+  {
+   "title": "Ganglioside oligosaccharide structure influences integrin function",
+   "event": "Poster Session American Association for Cancer Research meeting, April 1994",
+   "year": 1994,
+   "kind": "abstract"
+  },
+  {
+   "title": "Effects of neuroblastoma tumor gangliosides on platelet adhesion to collagen",
+   "event": "Poster Session American Society of Pediatric Hematology/Oncology meeting, August 1995",
+   "year": 1995,
+   "kind": "abstract"
+  },
+  {
+   "title": "Neuroblastoma tumor gangliosides enhance  integrin phosphoprotein signaling in platelets",
+   "event": "AACR Biology 26 Poster Session, April 1996",
+   "year": 1996,
+   "kind": "abstract"
+  },
+  {
+   "title": "Neuroblastoma Tumor Gangliosides (NBTG) Induce Integrin Clustering: A mechanism in the biology of tumor metastasis",
+   "event": "Poster Session American Society of Pediatric Hematology/Oncology meeting, August 1996",
+   "year": 1996,
+   "kind": "abstract"
+  },
+  {
+   "title": "Effects of tumor gangliosides on integrin function: Modulation of cell adhesion & signaling",
+   "event": "Rush University Research Forum, 1997",
+   "year": 1997,
+   "kind": "abstract"
+  },
+  {
+   "title": "Neuroblastoma tumor gangliosides enhance integrin phosphoprotein signaling in platelets",
+   "event": "Rush University Research Forum, 1997",
+   "year": 1997,
+   "kind": "abstract"
+  },
+  {
+   "title": " Integrin Clustering by Gangliosides",
+   "event": "Rush University Research Forum, 1997",
+   "year": 1997,
+   "kind": "abstract"
+  },
+  {
+   "title": "Neuroblastoma Tumor Gangliosides (NBTG) Induce Integrin Clustering: A mechanism in the biology of tumor metastasis",
+   "event": "Rush University Research Forum, 1997",
+   "year": 1997,
+   "kind": "abstract"
+  },
+  {
+   "title": "Targeted Biotherapy of Atherosclerosis",
+   "event": "Integrins: Applying Multidisciplinary Approaches for Targeted Therapies, January 29-30, 1998, Cambridge, MA",
+   "year": 1998,
+   "kind": "abstract"
+  },
+  {
+   "title": "21 integrin avidity is modulated by tumor gangliosides",
+   "event": "Poster Session American Society of Pediatric Hematology/Oncology meeting, September 1998",
+   "year": 1998,
+   "kind": "abstract"
+  },
+  {
+   "title": "Inhibition of neuroblastoma invasion following depletion of tumor gangliosides",
+   "event": "Poster Session American Society of Pediatric Hematology/Oncology meeting, September 1998",
+   "year": 1998,
+   "kind": "abstract"
+  },
+  {
+   "title": "Treatment of Anti-phospholipid Antibody Syndrome with High-Dose Dalterparin",
+   "event": "International Symposium on Thromboembolism: New Achievements and Challenges, Lisbon, Portugal, June 4-5, 1999",
+   "year": 1999,
+   "kind": "abstract"
+  },
+  {
+   "title": "Advoy.com™: An Internet Platform for Hemophilia Patient Care, American Society of Hematology Annual Meeting December 9, 2001, Poster Session: Health Services and Outcomes Research, Poster Board Number 904.",
+   "event": "",
+   "year": 2001,
+   "kind": "abstract"
+  },
+  {
+   "title": "c-myc Proto-Oncogene Expression in Hemophilic Synovitis: In Vitro Studies of the Effects of Iron and Ceramide December 10, 2001, American Society of Hematology Annual Meeting Poster Session: Hemophilia and von Willebrand Disease, Poster Board Number 215",
+   "event": "",
+   "year": 2001,
+   "kind": "abstract"
+  },
+  {
+   "title": "Gangliosides Regulate Tumor Cell Adhesion to Collagen, April 8, 2003 Poster Session 73 AACR 2003 (abstract #4087)",
+   "event": "",
+   "year": 2003,
+   "kind": "abstract"
+  },
+  {
+   "title": "Type 2M von Willebrand disease due to linked P1266Q and V1279I substitutions in the von Willebrand factor A1 domain XIXth Congress of the International Society on Thrombosis and Haemostasis, Birmingham, England, 2003",
+   "event": "",
+   "year": 2003,
+   "kind": "abstract"
+  },
+  {
+   "title": "FEIBA Prophylaxis in Hemophilia A Patients With Inhibitors Results in 95% Reduction In Bleeding Episodes Hemophilia 2004 World Congress, Bangkok, Thailand",
+   "event": "",
+   "year": 2004,
+   "kind": "abstract"
+  },
+  {
+   "title": "Consensus Recommendation for Central Venous Access Devices in Hemophilia, Hemophilia 2004 World Congress, Bangkok, Thailand",
+   "event": "",
+   "year": 2004,
+   "kind": "abstract"
+  },
+  {
+   "title": "Pathobiology of hemophilic synovitis I: over-expression of mdm2 oncogene. Hemophilia 2004 World Congress, Bangkok, Thailand",
+   "event": "",
+   "year": 2004,
+   "kind": "abstract"
+  },
+  {
+   "title": "Pathobiology of Hemophilic Synovitis II: Synovial Cell Proliferation. American Society of Hematology Annual Meeting, 2004",
+   "event": "",
+   "year": 2004,
+   "kind": "abstract"
+  },
+  {
+   "title": "Monahan PE, Sun J, Valentino LA, Hakobyan N. Local intraarticular factor IX protects hemophilia B mice from bleeding-induced joint deterioration in the absence of circulating factor IX. Haemophilia (2008) 14:407",
+   "event": "",
+   "year": 2008,
+   "kind": "abstract"
+  },
+  {
+   "title": "Monahan PE, Valentino LA, Hakobyan N, Sun J. Adeno-associated Virus (AAV) mediated intraarticular expression of clotting factor IX protects from hemophilic arthropathy. Haemophilia (2008) 14:403",
+   "event": "",
+   "year": 2008,
+   "kind": "abstract"
+  },
+  {
+   "title": "Sun J, Hakobyan N, Valentino LA, Monahan PE. Extravascular clotting factor within joint tissues protects against progression of hemophilic arthropathy. Blood (2007) 110(11):157 (Abstract #496)",
+   "event": "",
+   "year": 2007,
+   "kind": "abstract"
+  },
+  {
+   "title": "Sun J, Hakobyan N, Valentino LA, Monahan PE. Factor IX concentrated in the joint space protects hemophilia B mice from bleeding-induced joint deterioration in the absence of circulating factor IX. J Thromb Haemost (2007). Selected for Oral Presentation at the International Society for Thrombosis and Hemostasis XXIst Congress, Geneva, July 9, 2007",
+   "event": "",
+   "year": 2007,
+   "kind": "abstract"
+  },
+  {
+   "title": "Sun J, Hakobyan N, Valentino LA, Monahan PE. Intraarticular expression of factor IX from Adeno-associated virus (AAV) vectors decreases development of hemophilic joint pathology. Mol Ther (2007) 15 (Suppl 1):S362 (Abstract #950)",
+   "event": "",
+   "year": 2007,
+   "kind": "abstract"
+  },
+  {
+   "title": "Valentino L, Recht J, DiPaola J, Shapiro S, Pipe S, Ewing N, Urgo J, Bullock T, Simmons M, Pipe R, Deguzman C. Experience with a third generation recombinant factor VIII concentrate (Advate®) for immune tolerance induction in patients with hemophilia A. Haemophilia (2008), 14 (Suppl. 2), 16 (Abstract #03 PO 44)",
+   "event": "",
+   "year": 2008,
+   "kind": "abstract"
+  },
+  {
+   "title": "Valentino, L. Assessing the benefits of FEIBA prophylaxis in hemophilia patients with inhibitors. Haemophilia (2008), 14 (Suppl. 2), 16 (Abstract #03 PO 44)",
+   "event": "",
+   "year": 2008,
+   "kind": "abstract"
+  },
+  {
+   "title": "Øvlisen K, Kristensen A, Valentino L, Hakobyan N, INGERSLEV J, Tranholm. M. Joint bleeds in haemophilia A mice: the effect of rFVIII, rFVIIa and NN1731 Haemophilia (2008), 14 (Suppl. 2), 54 (Abstract #08 PO 73)",
+   "event": "",
+   "year": 2008,
+   "kind": "abstract"
+  },
+  {
+   "title": "Valentino, L. Prophylaxis in patients with inhibitors. Haemophilia (2008), 14 (Suppl. 2), 99 (Abstract #16 S 02)",
+   "event": "",
+   "year": 2008,
+   "kind": "abstract"
+  },
+  {
+   "title": "Clinical Dosing and Efficacy of Recombinant Factor VIIa (rFVIIa) in Specific Target and Non-Target Joint Hemorrhages: Analysis of the Hemophilia and Thrombosis Research Society Registry (HTRS) from 2004-2008. 2009 Musculoskeletal Congress of the World Federation of Hemophilia, Cartagena, Colombia, April 27, 2009",
+   "event": "",
+   "year": 2009,
+   "kind": "abstract"
+  },
+  {
+   "title": "Patient and Caregiver-Reported Symptoms and Reasons for Starting/Stopping Recombinant Factor VIIa (rFVIIa) Treatment: Observations from the Dosing Observational Study in Hemophilia (DOSE), ASPHO 2010",
+   "event": "",
+   "year": 2010,
+   "kind": "abstract"
+  },
+  {
+   "title": "Symptoms of Acute Bleeding and Reasons for Starting/Stopping Recombinant Factor VIIa (rFVIIa) Treatment: Evaluation of Patient and Caregiver Responses from the Dosing Observational Study in Hemophilia (DOSE), HTRS 2010",
+   "event": "",
+   "year": 2010,
+   "kind": "abstract"
+  },
+  {
+   "title": "What is the current safety profile of Alphanate®? The ethical concern about using plasma-derived factor VIII concentrate in the SIPPET study, National Hemophilia Foundation, 2010",
+   "event": "",
+   "year": 2010,
+   "kind": "abstract"
+  },
+  {
+   "title": "The Dosing Observational Study in Hemophilia (DOSE): An Innovative Approach to Understanding Home Treatment With rFVIIa in Patients with Congenital Hemophilia With Inhibitors (CHwI) and the Impact of Bleeding Episodes on Patient/Family Quality of Life, National Hemophilia Foundation, 2010",
+   "event": "",
+   "year": 2010,
+   "kind": "abstract"
+  },
+  {
+   "title": "Patient/Caregiver-Reported Bleed Symptoms and Reasons for Starting/Stopping Treatment with Recombinant Factor VIIa (rFVIIa): Analysis of the Dosing Observational Study in Hemophilia (DOSE), WFH 2010",
+   "event": "",
+   "year": 2010,
+   "kind": "abstract"
+  },
+  {
+   "title": "Healthcare Resource Utilization Among Hemophilia A Patients With Inhibitor Status in the US, WFH 2010",
+   "event": "",
+   "year": 2010,
+   "kind": "abstract"
+  },
+  {
+   "title": "Prophylaxis in Subjects with Severe or Moderately Severe Hemophilia A: A Multicenter, Open-Label, Randomized, 2-Arm, Phase 4 Clinical Study of Previously Treated Patients with ADVATE (Antihemophilic Factor [Recombinant] Plasma/Albumin-Free Method), ASPHO 2011",
+   "event": "",
+   "year": 2011,
+   "kind": "abstract"
+  },
+  {
+   "title": "Pharmacokinetics of IB1001, a new recombinant factor IX, presented at the European Association of Haemophilia & Allied Disorders 1st Congress Amsterdam, 2011",
+   "event": "",
+   "year": 2011,
+   "kind": "abstract"
+  },
+  {
+   "title": "Prophylaxis in Subjects with Severe or Moderately Severe Hemophilia A: A Multicenter, Open-Label, Randomized, 2-Arm, Phase 4 Clinical Study of Previously Treated Patients Treated with ADVATE (Antihemophilic Factor (Recombinant), Plasma/Albumin-Free Method [rAHF-PFM]), HTRS 2011",
+   "event": "",
+   "year": 2011,
+   "kind": "abstract"
+  },
+  {
+   "title": "Creating phenotypic variability in a mouse model of hemophilia, HTRS 2011",
+   "event": "",
+   "year": 2011,
+   "kind": "abstract"
+  },
+  {
+   "title": "The Hemophilia Severity Score: a preliminary evaluation of 185 patients, HTRS 2011",
+   "event": "",
+   "year": 2011,
+   "kind": "abstract"
+  },
+  {
+   "title": "A Discrete Choice Experiment to Elicit Physician Preferences for Medication Attributes for the Treatment of Patients with Severe Hemophilia A with Inhibitors to Factor VIII, ISTH, 2011",
+   "event": "",
+   "year": 2011,
+   "kind": "abstract"
+  },
+  {
+   "title": "A Multicenter, Open-Label Study to Compare On-Demand Treatment With Two Prophylaxis Regimens of Recombinant Coagulation Factor IX in Subjects With Hemophilia B, ISTH, 2011",
+   "event": "",
+   "year": 2011,
+   "kind": "abstract"
+  },
+  {
+   "title": "Prophylaxis in hemophilia A: A multicenter, open-label, randomized, phase 4 clinical study of antihemophilic factor (recombinant), plasma/albumin-free method (rAHF-PFM), ISTH, 2011",
+   "event": "",
+   "year": 2011,
+   "kind": "abstract"
+  },
+  {
+   "title": "Hemostatic effect of PEGylated anti-TFPI peptide in a murine model of hemophilic joint bleeding, American Society of Hematology Annual Meeting, 2012",
+   "event": "",
+   "year": 2012,
+   "kind": "abstract"
+  },
+  {
+   "title": "Joint disease and the potential for improved joint health in inhibitor patients who have a good response to aPCC prophylaxis: data from the ProFEIBA Study, American Society of Hematology Annual Meeting, 2012",
+   "event": "",
+   "year": 2012,
+   "kind": "abstract"
+  },
+  {
+   "title": "Use of IB1001, a new investigational recombinant factor IX, in patients with hemophilia B undergoing major surgical procedures, European Association for Haemophilia and Allied Disorders (EAHAD) 2012",
+   "event": "",
+   "year": 2012,
+   "kind": "abstract"
+  },
+  {
+   "title": "Are neutrophils essential for the development of hemophilic synovitis? American Society of Hematology Annual Meeting, 2012",
+   "event": "",
+   "year": 2012,
+   "kind": "abstract"
+  },
+  {
+   "title": "Results of a Phase 3 Clinical Trial of Safety, Efficacy, and Pharmacokinetics of Extended Half-life Fc Fusion Factor IX, American Society of Hematology Annual Meeting, 2012",
+   "event": "",
+   "year": 2012,
+   "kind": "abstract"
+  },
+  {
+   "title": "Impact of rAHF-PFM Prophylactic Treatment on Annual Bleeding Rate and Health-Related Quality of Life of Adults with Severe Hemophilia A, International Society of Thrombosis and Hemostasis Annual Meeting, Amsterdam, NL 2013",
+   "event": "",
+   "year": 2013,
+   "kind": "abstract"
+  },
+  {
+   "title": "Safety, Efficacy, and Improved Pharmacokinetics Demonstrated in a Phase 3 Clinical Trial of Extended Half-Life Recombinant Fc Fusion Factor IX (B-LONG), International Society of Thrombosis and Hemostasis Annual Meeting, Amsterdam, NL 2013",
+   "event": "",
+   "year": 2013,
+   "kind": "abstract"
+  },
+  {
+   "title": "The Relationship Between Specific Annual Bleed Rates and Health Outcomes Among Children with Severe Hemophilia A, International Society of Thrombosis and Hemostasis Annual Meeting, Amsterdam, NL 2013",
+   "event": "",
+   "year": 2013,
+   "kind": "abstract"
+  },
+  {
+   "title": "Treatment of Bleeding Episodes in Subjects with Haemophilia B with the Long-Lasting Recombinant Factor IX Fc Fusion (rFIXFc) in the Phase 3 B-LONG Study, International Society of Thrombosis and Hemostasis Annual Meeting, Amsterdam, NL 2013",
+   "event": "",
+   "year": 2013,
+   "kind": "abstract"
+  },
+  {
+   "title": "Hemostatic effect of an anti-TFPI peptide in a murine model of hemophilic joint bleeding, International Society of Thrombosis and Hemostasis Annual Meeting, Amsterdam, NL 2013",
+   "event": "",
+   "year": 2013,
+   "kind": "abstract"
+  },
+  {
+   "title": "Peak FVIII levels and time spent in \"normal\" FVIII range post-infusion matters in prophylactic efficacy in hemophilia A: a closer look at the other end of the curve., International Society of Thrombosis and Hemostasis Annual Meeting, Amsterdam, NL 2013",
+   "event": "",
+   "year": 2013,
+   "kind": "abstract"
+  },
+  {
+   "title": "Clinical Implications of Population Pharmacokinetics of rFIXFc in Routine Prophylaxis, Control of Bleeding and Perioperative Management for Haemophilia B Patients, International Society of Thrombosis and Hemostasis Annual Meeting, Amsterdam, NL 2013",
+   "event": "",
+   "year": 2013,
+   "kind": "abstract"
+  },
+  {
+   "title": "B-LONG: Results from a Phase 3 Study of Safety, Efficacy, and Pharmacokinetics of Long-Lasting Recombinant Factor IX Fc Fusion (rFIXFc), International Society of Thrombosis and Hemostasis Annual Meeting, Amsterdam, NL 2013",
+   "event": "",
+   "year": 2013,
+   "kind": "abstract"
+  },
+  {
+   "title": "Treatment of Bleeding Episodes in Subjects with Haemophilia B with the Long-Lasting Recombinant Factor IX Fc Fusion (rFIXFc) in the Phase 3 B-LONG Study, International Society of Thrombosis and Hemostasis Annual Meeting, Amsterdam, NL 2013",
+   "event": "",
+   "year": 2013,
+   "kind": "abstract"
+  },
+  {
+   "title": "Qualitative findings contributing to the development of a hemophilia-specific caregiver burden instrument: caregiver and health care professional insights, International Society of Thrombosis and Hemostasis Annual Meeting, Amsterdam, NL 2013",
+   "event": "",
+   "year": 2013,
+   "kind": "abstract"
+  },
+  {
+   "title": "The Relationship between Specific Annual Bleed Rates and Health Outcomes among Children with Severe Hemophilia A, International Society of Thrombosis and Hemostasis Annual Meeting, Amsterdam, NL 2013",
+   "event": "",
+   "year": 2013,
+   "kind": "abstract"
+  },
+  {
+   "title": "Pharmacodynamic Effects of Escalating Dosages of a New Recombinant Human Factor VIIa (LR769) in Congenital Hemophilia A or B Patients, International Society of Thrombosis and Hemostasis Annual Meeting, Amsterdam, NL 2013",
+   "event": "",
+   "year": 2013,
+   "kind": "abstract"
+  },
+  {
+   "title": "Pharmacodynamic Effects of Escalating Dosages of a New Recombinant Human Factor VIIa (LR769) in Congenital Hemophilia A or B Patients, International Society of Thrombosis and Hemostasis Annual Meeting, Amsterdam, NL 2013",
+   "event": "",
+   "year": 2013,
+   "kind": "abstract"
+  },
+  {
+   "title": "Bleeding Pattern and Median Time Interval Between Bleeding Episodes Amongst Patients Receiving On- Demand and Prophylaxis Therapy, International Society of Thrombosis and Hemostasis Annual Meeting, Amsterdam, NL 2013",
+   "event": "",
+   "year": 2013,
+   "kind": "abstract"
+  }
+ ],
+ "projects": [
+  {
+   "role": "Principal Investigator",
+   "title": "University Committee on Research, Rush-Presbyterian- St. Luke's Medical Center, \"Effects of Tumor-Derived Gangliosides on Platelet Aggregation\"",
+   "description": "University Committee on Research, Rush-Presbyterian- St. Luke's Medical Center, \"Effects of Tumor-Derived Gangliosides on Platelet Aggregation\"",
+   "start": 1991,
+   "end": 1992,
+   "kind": "laboratory"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "American Cancer Society, Illinois Division, \"Effects of Tumor-Derived Gangliosides on the Expression and Function of the Endothelial Cell Adhesion Molecule, E-Selectin\"",
+   "description": "American Cancer Society, Illinois Division, \"Effects of Tumor-Derived Gangliosides on the Expression and Function of the Endothelial Cell Adhesion Molecule, E-Selectin\"",
+   "start": 1992,
+   "end": 1993,
+   "kind": "laboratory"
+  },
+  {
+   "role": "Co-investigator",
+   "title": "NCRR-BRS Shared Instrument Grant, \"Anchored Cell Analysis and Sorting Cytometer (ACAS 570)\"",
+   "description": "NCRR-BRS Shared Instrument Grant, \"Anchored Cell Analysis and Sorting Cytometer (ACAS 570)\"",
+   "start": 1993,
+   "end": 1994,
+   "kind": "laboratory"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "Rush Associates Research Fund, \"Regulation of a2b1 Integrin Function and Activity by Neuroblastoma Tumor Gangliosides”",
+   "description": "Rush Associates Research Fund, \"Regulation of a2b1 Integrin Function and Activity by Neuroblastoma Tumor Gangliosides”",
+   "start": 1995,
+   "end": 1996,
+   "kind": "laboratory"
+  },
+  {
+   "role": "Departmental Research Fund",
+   "title": "Department of Pediatrics, Rush Medical College, \"Regulation of Integrin Activity by Tumor Gangliosides\"",
+   "description": "Department of Pediatrics, Rush Medical College, \"Regulation of Integrin Activity by Tumor Gangliosides\"",
+   "start": 1994,
+   "end": 1996,
+   "kind": "laboratory"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "American Cancer Society, “Biotherapy of Cancer Metastasis: The Role of Tumor Gangliosides in Cell Adhesion and Signaling”",
+   "description": "American Cancer Society, “Biotherapy of Cancer Metastasis: The Role of Tumor Gangliosides in Cell Adhesion and Signaling”",
+   "start": 1996,
+   "end": 1997,
+   "kind": "laboratory"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "Women’s Board, Rush-Presbyterian-St. Luke’s Medical Center, “Targeted Biotherapy of Neuroblastoma”",
+   "description": "Women’s Board, Rush-Presbyterian-St. Luke’s Medical Center, “Targeted Biotherapy of Neuroblastoma”",
+   "start": 1996,
+   "end": 1999,
+   "kind": "laboratory"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "The biological efficacy profile of a chemically modified recombinant factor VIII (CMrFVIII) molecule, Baxter Bioscience",
+   "description": "The biological efficacy profile of a chemically modified recombinant factor VIII (CMrFVIII) molecule, Baxter Bioscience",
+   "start": 2009,
+   "end": 2011,
+   "kind": "laboratory"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "Defining the role or early treatment of joint bleeding in a mouse model of haemophilic arthropathy, total direct costs, NovoNordisk",
+   "description": "Defining the role or early treatment of joint bleeding in a mouse model of haemophilic arthropathy, total direct costs, NovoNordisk",
+   "start": 2010,
+   "end": 2011,
+   "kind": "laboratory"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "The impact of age at the time of first hemarthrosis on the development of arthropathy, total direct costs, Octapharma",
+   "description": "The impact of age at the time of first hemarthrosis on the development of arthropathy, total direct costs, Octapharma",
+   "start": 2010,
+   "end": 2012,
+   "kind": "laboratory"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "The biological efficacy profile of a chemically modified recombinant factor VIII (CMrFVIII) molecule, Baxter Bioscience",
+   "description": "The biological efficacy profile of a chemically modified recombinant factor VIII (CMrFVIII) molecule, Baxter Bioscience",
+   "start": 2011,
+   "end": 2012,
+   "kind": "laboratory"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "Efficacy of PEGylated anti-TFPI peptide in a murine model of hemophilic joint bleeding, total direct costs, Baxter Bioscience",
+   "description": "Efficacy of PEGylated anti-TFPI peptide in a murine model of hemophilic joint bleeding, total direct costs, Baxter Bioscience",
+   "start": 2011,
+   "end": 2012,
+   "kind": "laboratory"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "Investigator-Initiated Research (“IIR”) Agreement: Defining the Role of Angiogenesis in Hemophilic Arthropathy, Pfizer Inc",
+   "description": "Investigator-Initiated Research (“IIR”) Agreement: Defining the Role of Angiogenesis in Hemophilic Arthropathy, Pfizer Inc",
+   "start": 2011,
+   "end": 2013,
+   "kind": "laboratory"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "Efficacy of PEGylated anti-TFPI peptide in a murine model of hemophilic joint bleeding, total direct costs, Baxter Bioscience",
+   "description": "Efficacy of PEGylated anti-TFPI peptide in a murine model of hemophilic joint bleeding, total direct costs, Baxter Bioscience",
+   "start": 2012,
+   "end": 2013,
+   "kind": "laboratory"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "Investigator-Initiated Research (“IIR”) Agreement: The Role of Angiogenesis in Hemophilic Arthropathy, Baxter Bioscience",
+   "description": "Investigator-Initiated Research (“IIR”) Agreement: The Role of Angiogenesis in Hemophilic Arthropathy, Baxter Bioscience",
+   "start": 2012,
+   "end": 2013,
+   "kind": "laboratory"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "Investigator-Initiated Research (“IIR”) Agreement: Biomarkers of hemophilic arthropathy, Bayer Healthcare",
+   "description": "Investigator-Initiated Research (“IIR”) Agreement: Biomarkers of hemophilic arthropathy, Bayer Healthcare",
+   "start": 2012,
+   "end": 2013,
+   "kind": "laboratory"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "Regional Hemophilia Treatment Center Program for the Prevention of Complications of Hemophilia (CDC Cooperative Agreement U27 CCU-513-116-01-0)",
+   "description": "Regional Hemophilia Treatment Center Program for the Prevention of Complications of Hemophilia (CDC Cooperative Agreement U27 CCU-513-116-01-0)",
+   "start": 1996,
+   "end": 1997,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "Regional Hemophilia Treatment Center Program for the Prevention of Complications of Hemophilia (CDC Cooperative Agreement U27 CCU-513-116-02-0)",
+   "description": "Regional Hemophilia Treatment Center Program for the Prevention of Complications of Hemophilia (CDC Cooperative Agreement U27 CCU-513-116-02-0)",
+   "start": 1997,
+   "end": 2001,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "Regional Hemophilia Treatment Center Program (MCHB Grant MCJ-552003-08)",
+   "description": "Regional Hemophilia Treatment Center Program (MCHB Grant MCJ-552003-08)",
+   "start": 1997,
+   "end": 2006,
+   "kind": "clinical"
+  },
+  {
+   "role": "Co-Investigator",
+   "title": "Prevention of Complications of Hemophilia (CDC Cooperative Agreement U27-CCU-812-106)",
+   "description": "Prevention of Complications of Hemophilia (CDC Cooperative Agreement U27-CCU-812-106)",
+   "start": 1998,
+   "end": 2004,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "Epidemiology and Treatment of Circulating Anticoagulants in Patients with Hemophilia and von Willebrand’s Disease – The HTRS Registry, sponsored by NovoNordisk",
+   "description": "Epidemiology and Treatment of Circulating Anticoagulants in Patients with Hemophilia and von Willebrand’s Disease – The HTRS Registry, sponsored by NovoNordisk",
+   "start": 2000,
+   "end": 2010,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "Baxter Hyland Immuno, “Proto-oncogene expression in hemophilic synovitis”",
+   "description": "Baxter Hyland Immuno, “Proto-oncogene expression in hemophilic synovitis”",
+   "start": 2000,
+   "end": 2001,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "“Hemophilic Genotype, Inhibitors and Response to Immune Tolerance: A Prospective Satellite/Companion Study”, sponsored by University of Washington",
+   "description": "“Hemophilic Genotype, Inhibitors and Response to Immune Tolerance: A Prospective Satellite/Companion Study”, sponsored by University of Washington",
+   "start": 2001,
+   "end": 2012,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "A Randomized Prospective Study for the Prevention of Joint Disease in Children with Severe Factor VIII Deficiency, sponsors U.S. Department of Health and Human Services, National Institutes of Health and Clinical Research Center of Colorado, Universi",
+   "description": "A Randomized Prospective Study for the Prevention of Joint Disease in Children with Severe Factor VIII Deficiency, sponsors U.S. Department of Health and Human Services, National Institutes of Health and Clinical Research Center of Colorado, University of Colorado Health Sciences Center",
+   "start": 2001,
+   "end": 2006,
+   "kind": "clinical"
+  },
+  {
+   "role": "Co-Principal Investigator",
+   "title": "GenStar Therapeutics, Inc., Mini-Ad/Factor VIII Gene Therapy of Severe Hemophilia A",
+   "description": "GenStar Therapeutics, Inc., Mini-Ad/Factor VIII Gene Therapy of Severe Hemophilia A",
+   "start": 2001,
+   "end": 2002,
+   "kind": "clinical"
+  },
+  {
+   "role": "Co-Principal Investigator",
+   "title": "Boehringer Ingelheim GmbH., Markers of Platelet Activation in Stroke Patients",
+   "description": "Boehringer Ingelheim GmbH., Markers of Platelet Activation in Stroke Patients",
+   "start": 2002,
+   "end": 2003,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "An Open-Label, Randomized, Parallel, Multi-center Trial Comparing the Safety and Efficacy of rFVIIa When Administered as IV Bolus or IV Continuous Infusion to Hemophiliacs with Inhibitors During and After Major Surgery, sponsored by NovoNordisk",
+   "description": "An Open-Label, Randomized, Parallel, Multi-center Trial Comparing the Safety and Efficacy of rFVIIa When Administered as IV Bolus or IV Continuous Infusion to Hemophiliacs with Inhibitors During and After Major Surgery, sponsored by NovoNordisk",
+   "start": 2003,
+   "end": 2005,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "A Double-Blind, Randomized, Crossover Evaluation of the Pharmacokinetics of Recombinant Human Factor IX (BeneFIX) and a New Formulation of BeneFIX (rFIX-R); and an Open-Label Safety and Efficacy Evaluation of rFIX-R in Previously Treated Patients wit",
+   "description": "A Double-Blind, Randomized, Crossover Evaluation of the Pharmacokinetics of Recombinant Human Factor IX (BeneFIX) and a New Formulation of BeneFIX (rFIX-R); and an Open-Label Safety and Efficacy Evaluation of rFIX-R in Previously Treated Patients with Moderate to Severe (FIX: C <2%) Hemophilia B, sponsored by Wyeth",
+   "start": 2003,
+   "end": 2005,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "Impact of HIV on Hepatitis C in Hemophilia: (HHH), sponsored by University of Pittsburgh",
+   "description": "Impact of HIV on Hepatitis C in Hemophilia: (HHH), sponsored by University of Pittsburgh",
+   "start": 2003,
+   "end": 2007,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "A Phase IV Study of the Safety and Efficacy of Refacto (Moroctocog Alfa, B-Domain Deleted Recombinant Factor VIII) in Subjects with Hemophilia A Undergoing Major Surgery Monitored Using the Chromogenic Substrate Assay at the Local Laboratory. sponsor",
+   "description": "A Phase IV Study of the Safety and Efficacy of Refacto (Moroctocog Alfa, B-Domain Deleted Recombinant Factor VIII) in Subjects with Hemophilia A Undergoing Major Surgery Monitored Using the Chromogenic Substrate Assay at the Local Laboratory. sponsored by Wyeth",
+   "start": 2004,
+   "end": 2008,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "An Open Label Study of Argatroban Injection to Evaluate the Safety and Effectiveness in Pediatric Patients Requiring Anticoagulant Alternatives to Heparin Sponsored by GlaxoSmithKline and Encysive Pharmaceuticals",
+   "description": "An Open Label Study of Argatroban Injection to Evaluate the Safety and Effectiveness in Pediatric Patients Requiring Anticoagulant Alternatives to Heparin Sponsored by GlaxoSmithKline and Encysive Pharmaceuticals",
+   "start": 2004,
+   "end": 2007,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "Phase I Study of the Safety, Tolerance and Pharmacokinetics of OB-1 (B-Domain Deleted Recombinant Porcine FVIII) versus HYATE:C (Porcine Plasma Derived FVIII) When Administered as a Single Intravenous Injection to Subjects with an Inhibitor Antibody ",
+   "description": "Phase I Study of the Safety, Tolerance and Pharmacokinetics of OB-1 (B-Domain Deleted Recombinant Porcine FVIII) versus HYATE:C (Porcine Plasma Derived FVIII) When Administered as a Single Intravenous Injection to Subjects with an Inhibitor Antibody to FVIII, in the Non-Bleeding State sponsored by Octagen",
+   "start": 2004,
+   "end": 2006,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "Exploratory, Multi-Centre, Randomized, Double-Blind, Uncontrolled Trial Evaluating The Efficacy of Activated Recombinant Factor VII (rFVIIa/Novoseven) In Secondary Bleeding Prophylaxis In Congenital Haemophilia A Or B Patients With Inhibitors, Protoc",
+   "description": "Exploratory, Multi-Centre, Randomized, Double-Blind, Uncontrolled Trial Evaluating The Efficacy of Activated Recombinant Factor VII (rFVIIa/Novoseven) In Secondary Bleeding Prophylaxis In Congenital Haemophilia A Or B Patients With Inhibitors, Protocol Number: F7HAEM-1505 sponsored by NovoNordisk",
+   "start": 2004,
+   "end": 2007,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "Novo Nordisk, The Effects on Joints of Prophylactic Administration of rFVIIa and FVII before injury",
+   "description": "Novo Nordisk, The Effects on Joints of Prophylactic Administration of rFVIIa and FVII before injury",
+   "start": 2004,
+   "end": 2005,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "Regional Hemophilia Treatment Center Program for the Prevention of Complications of Hemophilia (Under Centers for Disease Control Cooperative Agreement U27-CCU-513-116)",
+   "description": "Regional Hemophilia Treatment Center Program for the Prevention of Complications of Hemophilia (Under Centers for Disease Control Cooperative Agreement U27-CCU-513-116)",
+   "start": 2004,
+   "end": 2008,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "A phase IV study of the safety and efficacy of ReFacto (moroctocog alfa, B-domain deleted recombinant Factor VIII) in subjects with hemophilia A undergoing major surgery monitored using the chromogenic substrate assay at the local laboratory, sponsor",
+   "description": "A phase IV study of the safety and efficacy of ReFacto (moroctocog alfa, B-domain deleted recombinant Factor VIII) in subjects with hemophilia A undergoing major surgery monitored using the chromogenic substrate assay at the local laboratory, sponsored by Wyeth",
+   "start": 2005,
+   "end": 2006,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "Hemophilia Inhibitor Genetics Study (HIGS), Sponsored by Rho, Inc.",
+   "description": "Hemophilia Inhibitor Genetics Study (HIGS), Sponsored by Rho, Inc.",
+   "start": 2006,
+   "end": 2013,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "Regional Hemophilia Treatment Center Program (MCHB Grant 5 H30 MC 00032-17)",
+   "description": "Regional Hemophilia Treatment Center Program (MCHB Grant 5 H30 MC 00032-17)",
+   "start": 2006,
+   "end": 2007,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "Application of the Thrombin Generation Assay to Hemophilia Patients Treated with FEIBA VH, Baxter Bioscience",
+   "description": "Application of the Thrombin Generation Assay to Hemophilia Patients Treated with FEIBA VH, Baxter Bioscience",
+   "start": 2006,
+   "end": 2008,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "“A multi-center, open-label study to compare on demand treatment with two prophylaxis regimens of BeneFIX® (nonacog alfa; coagulation Factor IX, recombinant; Reformulated Drug Product) (rFIX- R) in patients with severe hemophilia B”, sponsored by Wye",
+   "description": "“A multi-center, open-label study to compare on demand treatment with two prophylaxis regimens of BeneFIX® (nonacog alfa; coagulation Factor IX, recombinant; Reformulated Drug Product) (rFIX- R) in patients with severe hemophilia B”, sponsored by Wyeth",
+   "start": 2007,
+   "end": 2010,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "Advate Antihemophilic Factor (Recombinant), Plasma/Albumin-Free Method (Advate rAHF-PFW): A Phase 4 Study Comparing Two Prophylactic Regimens in Subjects with Severe or Moderately Severe Hemophilia A, sponsored by Baxter",
+   "description": "Advate Antihemophilic Factor (Recombinant), Plasma/Albumin-Free Method (Advate rAHF-PFW): A Phase 4 Study Comparing Two Prophylactic Regimens in Subjects with Severe or Moderately Severe Hemophilia A, sponsored by Baxter",
+   "start": 2007,
+   "end": 2012,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "“A Phase III, Randomized, Double-Blind, Placebo- Controlled Study of Tenecteplase for Restoration of Function in Dysfunctional Central Venous Access Catheters”, sponsored by Genentech",
+   "description": "“A Phase III, Randomized, Double-Blind, Placebo- Controlled Study of Tenecteplase for Restoration of Function in Dysfunctional Central Venous Access Catheters”, sponsored by Genentech",
+   "start": 2007,
+   "end": 2010,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "“Prospective Advate Immune Tolerance Induction Registry (PAIR)”, sponsored by Baxter",
+   "description": "“Prospective Advate Immune Tolerance Induction Registry (PAIR)”, sponsored by Baxter",
+   "start": 2007,
+   "end": 2013,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "“Antihemophilic Factor (Recombinant) Plasma/Albumin- Free Method (rAHF-PFM): A Phase 4, Prospective, Controlled, Randomized, Multi-Center Study to Compare the Efficacy and Safety of Continuous Infusion (CI) versus Intermittent Bolus Infusion (BI) in ",
+   "description": "“Antihemophilic Factor (Recombinant) Plasma/Albumin- Free Method (rAHF-PFM): A Phase 4, Prospective, Controlled, Randomized, Multi-Center Study to Compare the Efficacy and Safety of Continuous Infusion (CI) versus Intermittent Bolus Infusion (BI) in Subject, sponsored by Baxter",
+   "start": 2007,
+   "end": 2012,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "“A Prospective, Open, Uncontrolled Surveillance of SURgical Interventions with FEIBA (SURF)”, sponsored by Baxter",
+   "description": "“A Prospective, Open, Uncontrolled Surveillance of SURgical Interventions with FEIBA (SURF)”, sponsored by Baxter",
+   "start": 2007,
+   "end": 2013,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "The Epidemiology of Diamond Blackfan Anemia: The Diamond Blackfan Anemia Registry, (Under Centers for Disease Control Cooperative Agreement U27-CCU-513-116-12)",
+   "description": "The Epidemiology of Diamond Blackfan Anemia: The Diamond Blackfan Anemia Registry, (Under Centers for Disease Control Cooperative Agreement U27-CCU-513-116-12)",
+   "start": 2007,
+   "end": 2008,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "Rituximab for the Treatment of Inhibitors in Congenital Hemophilia A, Sponsor, NIH-/New England Research Institute",
+   "description": "Rituximab for the Treatment of Inhibitors in Congenital Hemophilia A, Sponsor, NIH-/New England Research Institute",
+   "start": 2008,
+   "end": 2013,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "A post-Marketing Observational Study to Assess the Efficacy and Safety of the Factor VIII / von Willebrand factor, Alphanate, in Preventing excessive bleeding during surgery in subjects with congenital Type 3 von Willebrand Disease, Sponsor, Grifols,",
+   "description": "A post-Marketing Observational Study to Assess the Efficacy and Safety of the Factor VIII / von Willebrand factor, Alphanate, in Preventing excessive bleeding during surgery in subjects with congenital Type 3 von Willebrand Disease, Sponsor, Grifols, Inc",
+   "start": 2009,
+   "end": 2013,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "A randomized, open label, efficacy and safety study of OCTAPLEX and Fresh Frozen Plasma (FFP) in patients under vitamin k antagonist therapy with the need for urgent surgery or invasive procedures, Sponsor, Octapharma",
+   "description": "A randomized, open label, efficacy and safety study of OCTAPLEX and Fresh Frozen Plasma (FFP) in patients under vitamin k antagonist therapy with the need for urgent surgery or invasive procedures, Sponsor, Octapharma",
+   "start": 2010,
+   "end": 2012,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "Inhibitor development in previously untreated patients or minimally blood component treated patients: plasma derived (Alphanate) vs. recombinant (Advate, Kogenate, Recombinate) balanced study, Sponsor, Fondazione Angelo Bianchi Bonomi and Sintesi Res",
+   "description": "Inhibitor development in previously untreated patients or minimally blood component treated patients: plasma derived (Alphanate) vs. recombinant (Advate, Kogenate, Recombinate) balanced study, Sponsor, Fondazione Angelo Bianchi Bonomi and Sintesi Research S.r.l.",
+   "start": 2010,
+   "end": 2012,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "Clinical Study to Investigate the Pharmacokinetics, Efficacy, Safety and Immunogenicity of human-cl rhFVIII, a Newly Developed Human Cell-Line Derived Recombinant FVIII Concentrate in Previously Treated Patients With Severe Hemophilia A, Sponsor, Oct",
+   "description": "Clinical Study to Investigate the Pharmacokinetics, Efficacy, Safety and Immunogenicity of human-cl rhFVIII, a Newly Developed Human Cell-Line Derived Recombinant FVIII Concentrate in Previously Treated Patients With Severe Hemophilia A, Sponsor, Octapharma",
+   "start": 2010,
+   "end": 2013,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "Phase I/II/III Pharmacokinetic and Outcome Study of Inspiration’s Recombinant Factor IX Product, IB1001, Sponsor, Inspiration, Inc",
+   "description": "Phase I/II/III Pharmacokinetic and Outcome Study of Inspiration’s Recombinant Factor IX Product, IB1001, Sponsor, Inspiration, Inc",
+   "start": 2010,
+   "end": 2012,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "Molecular and Clinical Biology of vWD, Sponsor, Blood Center of Wisconsin",
+   "description": "Molecular and Clinical Biology of vWD, Sponsor, Blood Center of Wisconsin",
+   "start": 2009,
+   "end": 2013,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "Prospective, Controlled, Randomized, Multi-Center Study to Compare the Efficacy and Safety of Continuous Infusion (CI) versus Intermittent Bolus Infusion (BI) in Subjects with Severe or Moderately Severe Hemophilia A Undergoing Unilateral Primary Tot",
+   "description": "Prospective, Controlled, Randomized, Multi-Center Study to Compare the Efficacy and Safety of Continuous Infusion (CI) versus Intermittent Bolus Infusion (BI) in Subjects with Severe or Moderately Severe Hemophilia A Undergoing Unilateral Primary Total Knee Replacement, Sponsor, Baxter Bioscience",
+   "start": 2010,
+   "end": 2012,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "A Three Month Prospective Open Label Study of Therapy with FRAGMIN® in Children with Malignancies and venous Thromboembolism, Sponsor, Easi, Inc",
+   "description": "A Three Month Prospective Open Label Study of Therapy with FRAGMIN® in Children with Malignancies and venous Thromboembolism, Sponsor, Easi, Inc",
+   "start": 2010,
+   "end": 2013,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "FEIBA NF: A prospective, open-label, randomized parallel study to evaluate the efficacy & safety of prophylactic versus on-demand treatment in subjects with Hem A or Hem B and a high titer inhibitor, Sponsor, Baxter Bioscience",
+   "description": "FEIBA NF: A prospective, open-label, randomized parallel study to evaluate the efficacy & safety of prophylactic versus on-demand treatment in subjects with Hem A or Hem B and a high titer inhibitor, Sponsor, Baxter Bioscience",
+   "start": 2010,
+   "end": 2011,
+   "kind": "clinical"
+  },
+  {
+   "role": "Site Principal Investigator",
+   "title": "Warfarin Pharmaco-genetics in Pediatric Patients, Sponsor, Children’s Hosp of Wisconsin Children’s Research Institute",
+   "description": "Warfarin Pharmaco-genetics in Pediatric Patients, Sponsor, Children’s Hosp of Wisconsin Children’s Research Institute",
+   "start": 2010,
+   "end": 2013,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "A long-term assessment of physical activity, range of motion, and functional status following elective orthopedic surgery in hemophilia patients with inhibitors, Sponsor, NovoNordisk",
+   "description": "A long-term assessment of physical activity, range of motion, and functional status following elective orthopedic surgery in hemophilia patients with inhibitors, Sponsor, NovoNordisk",
+   "start": 2011,
+   "end": 2012,
+   "kind": "clinical"
+  },
+  {
+   "role": "Principal Investigator",
+   "title": "B-LONG: An open label multicenter evaluation of the safety, pharmacokinetics and efficacy of recombinant, long-acting coagulation Factor IX Fc fusion (rFIXFc) in the prevention and treatment of bleeding in previously treated subjects with severe Hemo",
+   "description": "B-LONG: An open label multicenter evaluation of the safety, pharmacokinetics and efficacy of recombinant, long-acting coagulation Factor IX Fc fusion (rFIXFc) in the prevention and treatment of bleeding in previously treated subjects with severe Hemophilia B, Sponsor, Biogen Idec, Inc",
+   "start": 2011,
+   "end": 2013,
+   "kind": "clinical"
+  },
+  {
+   "role": "Recipient",
+   "title": "Shadow Program, sponsored by Baxter Bioscience",
+   "description": "Shadow Program, sponsored by Baxter Bioscience",
+   "start": 2000,
+   "end": 2013,
+   "kind": "educational"
+  },
+  {
+   "role": "Recipient",
+   "title": "Provider Shadow Program, sponsored by Great Lakes Hemophilia Foundation and Baxter Bioscience",
+   "description": "Provider Shadow Program, sponsored by Great Lakes Hemophilia Foundation and Baxter Bioscience",
+   "start": 2008,
+   "end": 2013,
+   "kind": "educational"
+  },
+  {
+   "role": "Recipient",
+   "title": "Center for Advanced Training in Inhibitor Management (CATIM), sponsored by Baxter Bioscience",
+   "description": "Center for Advanced Training in Inhibitor Management (CATIM), sponsored by Baxter Bioscience",
+   "start": 2011,
+   "end": 2012,
+   "kind": "educational"
+  }
+ ]
+}

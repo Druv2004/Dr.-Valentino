@@ -1,0 +1,24 @@
+{% extends "core/base.html" %}
+{% block title %}Organizations | {{ site.full_name }}{% endblock %}
+{% block content %}
+<header class="page-head"><div class="wrap">
+  <h1>Organizations</h1>
+  <p class="lead">Leadership, society memberships, editorial work and committee service.</p>
+</div></header>
+<section class="block"><div class="wrap">
+  {% for label, items in groups %}
+  <section class="org-group">
+    <h2>{{ label }}</h2>
+    <ul class="org-list">
+      {% for o in items %}
+      <li>
+        <p class="org-name">{% if o.url %}<a href="{{ o.url }}" rel="noopener" target="_blank">{{ o.name }}</a>{% else %}{{ o.name }}{% endif %}</p>
+        <p class="org-role">{{ o.role }}{% if o.role and o.period %}, {% endif %}{{ o.period }}</p>
+        {% if o.description %}<p class="org-desc">{{ o.description }}</p>{% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% empty %}<p class="empty">No organizations listed yet.</p>{% endfor %}
+</div></section>
+{% endblock %}

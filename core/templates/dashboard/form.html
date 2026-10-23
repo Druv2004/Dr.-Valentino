@@ -1,0 +1,25 @@
+{% extends 'dashboard/base.html' %}{% block title %}{{ heading }}{% endblock %}{% block breadcrumb %}{% if cfg %}{{ cfg.title }} / {% endif %}{{ heading }}{% endblock %}
+{% block content %}
+{% load site_tags %}
+<div class="heading"><div><span class="eyebrow">{% if cfg %}{{ cfg.eyebrow }}{% else %}{{ eyebrow }}{% endif %}</span><h1>{{ heading }}</h1><p>{% if cfg %}{{ cfg.blurb }}{% else %}{{ blurb }}{% endif %}</p></div>{% if back_url %}<a class="secondary-btn" href="{{ back_url }}">← All {{ cfg.title|lower }}</a>{% endif %}</div>
+{% if not can_edit %}<p class="readonly-note">Your account is read-only. Ask an administrator for editor access to make changes.</p>{% endif %}
+<form method="post" enctype="multipart/form-data" class="dash-form">{% csrf_token %}
+  {% if form.non_field_errors %}<div class="flash error">{{ form.non_field_errors }}</div>{% endif %}
+  {% for title, rows in groups %}
+  <section class="panel form-panel"><h2>{{ title }}</h2><div class="field-row">
+    {% for bf, clear in rows %}
+    <div class="field{% if bf.errors %} bad{% endif %}{% if bf.widget_type == 'textarea' or bf.name == 'title' or bf.name == 'event' or bf.name == 'bio' %} full-row{% endif %}">
+      {% if bf.widget_type == 'checkbox' %}<label class="checkline">{{ bf }} {{ bf.label }}</label>
+      {% else %}<label for="{{ bf.id_for_label }}">{{ bf.label }}{% if bf.field.required %} *{% endif %}</label>{{ bf }}{% endif %}
+      {% if bf.field.current %}<div class="current">{% if bf.name == 'photo' or bf.name == 'image' or bf.name == 'thumbnail' %}<img src="{{ bf.field.current.url }}" alt="">{% endif %}<span>Current file: <a href="{{ bf.field.current.url }}" target="_blank" rel="noopener">{{ bf.field.current.name|basename }}</a></span></div>{% if clear %}<label class="rm">{{ clear }} {{ clear.label }}</label>{% endif %}{% endif %}
+      {% if bf.help_text %}<span class="help">{{ bf.help_text }}</span>{% endif %}
+      {% for e in bf.errors %}<span class="err">{{ e }}</span>{% endfor %}
+    </div>
+    {% endfor %}
+  </div></section>
+  {% endfor %}
+  {% if can_edit %}<div class="savebar"><button class="primary-btn">Save changes</button><a class="secondary-btn" href="{% if back_url %}{{ back_url }}{% else %}{% url 'dashboard' %}{% endif %}">Cancel</a><span class="spacer"></span>
+    {% if obj and cfg and can_delete %}<button class="danger-btn" type="submit" form="del-form" onclick="return confirm('Delete this {{ cfg.singular }}? This cannot be undone.')">Delete</button>{% endif %}</div>{% endif %}
+</form>
+{% if obj and cfg and can_delete %}<form id="del-form" method="post" action="{% url 'dash_delete' cfg.key obj.pk %}">{% csrf_token %}</form>{% endif %}
+{% endblock %}

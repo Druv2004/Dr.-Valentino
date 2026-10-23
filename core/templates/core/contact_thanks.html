@@ -1,0 +1,9 @@
+{% extends "core/base.html" %}
+{% block title %}Message sent | {{ site.full_name }}{% endblock %}
+{% block content %}
+<header class="page-head"><div class="wrap">
+  <h1>Message sent</h1>
+  <p class="lead">Thank you. Your message has been received. If it needs a reply, the office will follow up by email.</p>
+  <p><a class="btn btn-solid" href="{% url 'home' %}">Back to Home</a></p>
+</div></header>
+{% endblock %}

@@ -1,0 +1,37 @@
+{% extends "core/base.html" %}
+{% block title %}Resources | {{ site.full_name }}{% endblock %}
+{% block content %}
+<header class="page-head"><div class="wrap">
+  <h1>Resources</h1>
+  <p class="lead">Videos, slide decks, papers and learning materials for clinicians, researchers and families.</p>
+</div></header>
+<section class="block"><div class="wrap">
+  {% if kinds|length > 1 %}
+  <nav class="chips" aria-label="Resource type">
+    <a href="{% url 'resources' %}"{% if not kind %} aria-current="true"{% endif %}>All</a>
+    {% for k, l in kinds %}<a href="?kind={{ k }}"{% if k == kind %} aria-current="true"{% endif %}>{{ l }}</a>{% endfor %}
+  </nav>
+  {% endif %}
+  <div class="res-grid">
+    {% for r in resources %}
+    <article class="res">
+      {% if r.embed_url %}<div class="frame"><iframe src="{{ r.embed_url }}" title="{{ r.title }}" loading="lazy" allowfullscreen></iframe></div>
+      {% elif r.kind == "video" and r.file %}<video controls preload="none"{% if r.thumbnail %} poster="{{ r.thumbnail.url }}"{% endif %} src="{{ r.file.url }}"></video>
+      {% elif r.thumbnail %}<img src="{{ r.thumbnail.url }}" alt="" loading="lazy">{% endif %}
+      <div class="res-body">
+        <p class="tag">{{ r.get_kind_display }}</p>
+        <h2>{{ r.title }}</h2>
+        {% if r.description %}<p>{{ r.description }}</p>{% endif %}
+        <p class="e-links">
+          {% if r.file and r.kind != "video" %}<a href="{{ r.file.url }}" download>Download</a>{% endif %}
+          {% if r.external_url %}<a href="{{ r.external_url }}" rel="noopener" target="_blank">Open link</a>{% endif %}
+          {% if r.video_url and not r.embed_url %}<a href="{{ r.video_url }}" rel="noopener" target="_blank">Watch video</a>{% endif %}
+        </p>
+      </div>
+    </article>
+    {% empty %}
+    <p class="empty">No resources have been added yet. Add videos, presentations and documents in the site admin under Resources.</p>
+    {% endfor %}
+  </div>
+</div></section>
+{% endblock %}

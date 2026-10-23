@@ -1,0 +1,29 @@
+{% extends "core/base.html" %}
+{% load site_tags %}
+{% block title %}Projects | {{ site.full_name }}{% endblock %}
+{% block content %}
+<header class="page-head"><div class="wrap">
+  <h1>Projects</h1>
+  <p class="lead">{{ active }} current initiatives and {{ total }} projects in all: leadership roles, laboratory research, clinical trials and education programs.</p>
+</div></header>
+<section class="block"><div class="wrap">
+  <nav class="chips" aria-label="Project type">
+    <a href="{% url 'projects' %}"{% if not kind %} aria-current="true"{% endif %}>All</a>
+    {% for k, l in kinds %}<a href="?kind={{ k }}"{% if k == kind %} aria-current="true"{% endif %}>{{ l }}</a>{% endfor %}
+  </nav>
+  <ol class="entries">
+    {% for p in page %}
+    <li>
+      <span class="e-year">{% if p.ongoing %}Now{% else %}{{ p.start_year|default_if_none:"" }}{% endif %}</span>
+      <div>
+        <p class="e-title">{% if p.url %}<a href="{{ p.url }}" rel="noopener" target="_blank">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}</p>
+        {% if p.role or p.period %}<p class="e-sub">{{ p.role }}{% if p.role and p.period %}, {% endif %}{{ p.period }}</p>{% endif %}
+        {% if p.description and p.description != p.title %}<p class="e-sub">{{ p.description }}</p>{% endif %}
+        <p class="e-links"><span class="tag">{{ p.get_kind_display }}</span>{% if p.ongoing %}<span class="tag tag-live">Active</span>{% endif %}{% if p.file %}<a href="{{ p.file.url }}" download>Download</a>{% endif %}</p>
+      </div>
+    </li>
+    {% empty %}<li class="empty">No projects in this category yet.</li>{% endfor %}
+  </ol>
+  {% include "core/_pager.html" %}
+</div></section>
+{% endblock %}

@@ -1,0 +1,100 @@
+{% extends "core/base.html" %}
+{% load site_tags %}
+{% block content %}
+<section class="hero">
+  {% include "core/_fibrin.html" %}
+  <div class="wrap hero-inner has-photo">
+    <div class="hero-text">
+    <p class="hero-role">{{ site.tagline }}</p>
+    <h1 class="hero-name">{{ site.full_name }}</h1>
+    <p class="hero-headline">{{ site.hero_headline }}</p>
+    <p class="hero-intro">{{ site.hero_intro }}</p>
+    <div class="btn-row">
+      <a class="btn btn-plasma" href="{% if site.cv_file %}{{ site.cv_file.url }}{% else %}{% url 'about' %}{% endif %}"{% if site.cv_file %} download{% endif %}>{% if site.cv_file %}Download CV{% else %}Read the biography{% endif %}</a>
+      <a class="btn btn-ghost" href="{% url 'publications' %}">Publications</a>
+      <a class="btn btn-ghost" href="{% url 'contact' %}">Contact</a>
+    </div>
+    </div>
+    <figure class="hero-photo"><img src="{{ site.photo_url }}" alt="Portrait of {{ site.full_name }}"></figure>
+  </div>
+</section>
+
+<section class="facts" aria-label="At a glance">
+  <dl class="wrap facts-grid">
+    {% for n, label in stats %}<div><dt>{{ label }}</dt><dd>{{ n }}</dd></div>{% endfor %}
+  </dl>
+</section>
+
+<section class="block">
+  <div class="wrap split">
+    <div>
+      <h2>Overview</h2>
+      <div class="prose">{{ site.bio|first_paragraph }}</div>
+      <p><a class="more" href="{% url 'about' %}">Read the full biography</a></p>
+    </div>
+    <div>
+      <h2>Current roles</h2>
+      <ul class="roles">
+        {% for p in current_roles %}
+        <li>
+          <span class="role-name">{% if p.url %}<a href="{{ p.url }}" rel="noopener" target="_blank">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}</span>
+          <span class="role-sub">{{ p.role }}</span>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</section>
+
+{% if site.pull_quote %}
+<section class="quote-band"><div class="wrap"><blockquote>{{ site.pull_quote }}</blockquote></div></section>
+{% endif %}
+
+<section class="block">
+  <div class="wrap">
+    <h2>Areas of expertise</h2>
+    <dl class="expertise">
+      {% for name, text in expertise %}<div><dt>{{ name }}</dt><dd>{{ text }}</dd></div>{% endfor %}
+    </dl>
+  </div>
+</section>
+
+<section class="block block-tint">
+  <div class="wrap">
+    <h2>Highlights</h2>
+    <div class="highlights">
+      {% if featured_pub %}
+      <article>
+        <h3>Featured publication</h3>
+        <p class="hl-title">{% if featured_pub.url %}<a href="{{ featured_pub.url }}" rel="noopener" target="_blank">{{ featured_pub.title }}</a>{% else %}{{ featured_pub.title }}{% endif %}</p>
+        <p class="hl-meta">{{ featured_pub.journal }}{% if featured_pub.journal %}, {% endif %}{{ featured_pub.year }}</p>
+        <a class="more" href="{% url 'publications' %}">All {{ n_pubs }} publications</a>
+      </article>
+      {% endif %}
+      {% if featured_project %}
+      <article>
+        <h3>Active initiative</h3>
+        <p class="hl-title">{% if featured_project.url %}<a href="{{ featured_project.url }}" rel="noopener" target="_blank">{{ featured_project.title }}</a>{% else %}{{ featured_project.title }}{% endif %}</p>
+        <p class="hl-meta">{{ featured_project.role }}{% if featured_project.period %}, {{ featured_project.period }}{% endif %}</p>
+        <a class="more" href="{% url 'projects' %}">All projects</a>
+      </article>
+      {% endif %}
+      {% if featured_pres %}
+      <article>
+        <h3>From the lectures</h3>
+        <p class="hl-title">{{ featured_pres.title }}</p>
+        <p class="hl-meta">{{ featured_pres.event|truncatechars:150 }}</p>
+        <a class="more" href="{% url 'presentations' %}">All presentations</a>
+      </article>
+      {% endif %}
+    </div>
+  </div>
+</section>
+
+<section class="block cta">
+  <div class="wrap cta-row">
+    <h2>Collaborations, speaking and media</h2>
+    <a class="btn btn-solid" href="{% url 'contact' %}">Get in touch</a>
+  </div>
+</section>
+{% endblock %}

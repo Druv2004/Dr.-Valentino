@@ -1,0 +1,9 @@
+{% extends 'dashboard/base.html' %}{% block title %}Messages{% endblock %}{% block breadcrumb %}Messages{% endblock %}
+{% block content %}
+<div class="heading"><div><span class="eyebrow">CONTACT FORM</span><h1>Messages</h1><p>Enquiries sent through the website. Mark them handled once you have replied.</p></div>{% if can_export %}<a class="secondary-btn" href="{% url 'messages_export' %}">Download CSV</a>{% endif %}</div>
+<section class="panel"><form class="toolbar" method="get"><input name="q" placeholder="Search name, email or message..." value="{{ q }}"><select name="state"><option value="">All messages</option><option value="new" {% if state == 'new' %}selected{% endif %}>New</option><option value="handled" {% if state == 'handled' %}selected{% endif %}>Handled</option></select><button class="secondary-btn">Search</button></form>
+<div class="table-wrap"><table><thead><tr><th>FROM</th><th>SUBJECT</th><th>MESSAGE</th><th>STATUS</th><th>ACTION</th></tr></thead><tbody>
+{% for m in page %}<tr><td class="t-main"><a href="{% url 'message_detail' m.pk %}"><strong>{{ m.first_name }} {{ m.last_name }}</strong></a><small>{{ m.email }}</small><small>{{ m.created|date:'d M Y, H:i' }}</small></td><td>{{ m.get_topic_display }}</td><td>{{ m.message|truncatechars:90 }}</td><td><span class="pill {% if m.handled %}resolved{% else %}new{% endif %}">{% if m.handled %}Handled{% else %}New{% endif %}</span></td><td><a href="{% url 'message_detail' m.pk %}">Open →</a></td></tr>
+{% empty %}<tr><td colspan="5" class="empty">No messages found.</td></tr>{% endfor %}</tbody></table></div>
+{% if page.paginator.num_pages > 1 %}<div class="pager"><span>Page {{ page.number }} of {{ page.paginator.num_pages }}</span><span>{% if page.has_previous %}<a href="?page={{ page.previous_page_number }}">← Previous</a>{% endif %} {% if page.has_next %}<a href="?page={{ page.next_page_number }}">Next →</a>{% endif %}</span></div>{% endif %}</section>
+{% endblock %}

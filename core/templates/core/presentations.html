@@ -1,0 +1,39 @@
+{% extends "core/base.html" %}
+{% load site_tags %}
+{% block title %}Presentations | {{ site.full_name }}{% endblock %}
+{% block content %}
+<header class="page-head"><div class="wrap">
+  <h1>Presentations</h1>
+  <p class="lead">{{ total }} invited lectures and presented abstracts{% if with_media %}, {{ with_media }} with slides or video{% endif %}.</p>
+</div></header>
+<section class="block"><div class="wrap">
+  <form class="filters" method="get" role="search">
+    <label>Search<input type="search" name="q" value="{{ q }}" placeholder="Title, event or place"></label>
+    <label>Type<select name="kind"><option value="">All types</option>{% for k, l in kinds %}<option value="{{ k }}"{% if k == kind %} selected{% endif %}>{{ l }}</option>{% endfor %}</select></label>
+    <button class="btn btn-solid" type="submit">Apply filters</button>
+    {% if q or kind %}<a class="clear" href="{% url 'presentations' %}">Clear</a>{% endif %}
+  </form>
+  <p class="count" aria-live="polite">{{ page.paginator.count }} result{{ page.paginator.count|pluralize }}</p>
+  <ol class="entries">
+    {% for p in page %}
+    <li>
+      <span class="e-year">{{ p.year|default_if_none:"" }}</span>
+      <div>
+        <p class="e-title">{{ p.title }}</p>
+        {% if p.event %}<p class="e-sub">{{ p.event }}</p>{% endif %}
+        <p class="e-links">
+          <span class="tag">{{ p.get_kind_display }}</span>
+          {% if p.slides %}<a href="{{ p.slides.url }}" download>Slides</a>{% endif %}
+          {% if p.video_url and not p.embed_url %}<a href="{{ p.video_url }}" rel="noopener" target="_blank">Watch video</a>{% endif %}
+        </p>
+        {% if p.embed_url %}<details class="media"><summary>Watch video</summary><div class="frame"><iframe src="{{ p.embed_url }}" title="{{ p.title|truncatechars:80 }}" loading="lazy" allowfullscreen></iframe></div></details>{% endif %}
+        {% if p.video_file %}<details class="media"><summary>Watch video</summary><video controls preload="none" src="{{ p.video_file.url }}"></video></details>{% endif %}
+      </div>
+    </li>
+    {% empty %}
+    <li class="empty">No presentations match these filters. Clear the filters or try a different search.</li>
+    {% endfor %}
+  </ol>
+  {% include "core/_pager.html" %}
+</div></section>
+{% endblock %}

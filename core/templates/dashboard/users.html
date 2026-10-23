@@ -1,0 +1,8 @@
+{% extends 'dashboard/base.html' %}{% block title %}Team and access{% endblock %}{% block breadcrumb %}Team and access{% endblock %}
+{% block content %}
+<div class="heading"><div><span class="eyebrow">ACCESS MANAGEMENT</span><h1>Team and access</h1><p>Create individual logins and choose what each person can do.</p></div></div>
+<div class="two-column"><section class="panel"><div class="panel-head"><h2>Dashboard accounts</h2></div><div class="table-wrap"><table><thead><tr><th>USER</th><th>ROLE</th><th>STATUS</th><th></th></tr></thead><tbody>
+{% for u in users %}<tr><td><strong>{{ u.get_full_name|default:u.username }}</strong><small>@{{ u.username }}</small></td><td>{% if u.is_superuser %}Administrator{% else %}{{ u.profile.get_role_display|default:'Viewer' }}{% endif %}</td><td><span class="pill {% if u.is_active %}resolved{% else %}closed{% endif %}">{% if u.is_active %}Active{% else %}Disabled{% endif %}</span></td><td><a href="{% url 'user_edit' u.pk %}">Edit →</a></td></tr>{% endfor %}</tbody></table></div>
+<div class="panel-head" style="border-top:1px solid var(--line);border-bottom:0"><div><p><b>Administrator</b>: everything, including accounts. <b>Manager</b>: all content, site details, deleting, exports. <b>Content editor</b>: add and edit, no deleting or site details. <b>Viewer</b>: read-only.</p></div></div></section>
+<section class="panel form-panel"><h2>Create an account</h2><form method="post" class="stack-form">{% csrf_token %}{% for f in form %}<label>{{ f.label }}{{ f }}{% if f.errors %}<small class="err">{{ f.errors }}</small>{% endif %}</label>{% endfor %}<button class="primary-btn">Create account</button></form></section></div>
+{% endblock %}

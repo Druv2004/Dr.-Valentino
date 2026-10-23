@@ -1,0 +1,27 @@
+{% load static %}<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>{% block title %}Control Center{% endblock %} | Valentino Control Center</title><link rel="icon" href="{% static 'core/portrait.jpg' %}"><link rel="stylesheet" href="{% static 'dashboard/dashboard.css' %}"></head>
+<body><div class="layout">
+<aside class="sidebar">
+  <a class="logo" href="{% url 'dashboard' %}"><b>{{ site.full_name }}</b><span>CONTROL CENTER</span></a>
+  <div class="menu-caption">WEBSITE CONTENT</div>
+  <nav class="side-nav">
+    {% url 'dashboard' as u_dash %}{% url 'settings_manage' as u_set %}{% url 'messages_manage' as u_msg %}{% url 'users_manage' as u_users %}{% url 'password_change' as u_pw %}
+    <a href="{{ u_dash }}" {% if request.path == u_dash %}class="on"{% endif %}>◫ &nbsp; Overview</a>
+    <a href="{{ u_set }}" {% if request.path == u_set %}class="on"{% endif %}>⚙ &nbsp; Site and profile</a>
+    <a href="{% url 'dash_list' 'career' %}" {% if '/dashboard/career/' in request.path %}class="on"{% endif %}>♙ &nbsp; Experience and education</a>
+    <a href="{% url 'dash_list' 'publications' %}" {% if '/dashboard/publications/' in request.path %}class="on"{% endif %}>▣ &nbsp; Publications</a>
+    <a href="{% url 'dash_list' 'presentations' %}" {% if '/dashboard/presentations/' in request.path %}class="on"{% endif %}>◫ &nbsp; Presentations</a>
+    <a href="{% url 'dash_list' 'projects' %}" {% if '/dashboard/projects/' in request.path %}class="on"{% endif %}>▤ &nbsp; Projects</a>
+    <a href="{% url 'dash_list' 'organizations' %}" {% if '/dashboard/organizations/' in request.path %}class="on"{% endif %}>▥ &nbsp; Organizations</a>
+    <a href="{% url 'dash_list' 'resources' %}" {% if '/dashboard/resources/' in request.path %}class="on"{% endif %}>▶ &nbsp; Videos and resources</a>
+    <a href="{{ u_msg }}" {% if '/dashboard/messages/' in request.path %}class="on"{% endif %}>✉ &nbsp; Messages{% if new_messages %}<span class="nav-badge">{{ new_messages }}</span>{% endif %}</a>
+    <div class="menu-caption">ADMINISTRATION</div>
+    {% if can_users %}<a href="{{ u_users }}" {% if '/dashboard/team/' in request.path %}class="on"{% endif %}>♜ &nbsp; Team and access</a>{% endif %}
+    <a href="{{ u_pw }}" {% if request.path == u_pw %}class="on"{% endif %}>⌑ &nbsp; My password</a>
+    <a href="/" target="_blank" rel="noopener">↗ &nbsp; View website</a>
+  </nav>
+  <div class="side-bottom"><span class="user-bubble">{{ request.user.username|slice:':1'|upper }}</span><div><strong>{{ request.user.get_full_name|default:request.user.username }}</strong><small>{{ role_label }}</small></div><form method="post" action="{% url 'logout' %}">{% csrf_token %}<button class="logout" title="Sign out">↪</button></form></div>
+</aside>
+<div class="main">
+  <header class="topbar"><div><button class="menu-toggle" onclick="document.body.classList.toggle('show-menu')" aria-label="Toggle navigation">☰</button><span class="crumb">CONTROL CENTER / {% block breadcrumb %}Workspace{% endblock %}</span></div><div class="top-right"><span class="online-dot"></span> Staff dashboard <span class="avatar">{{ request.user.username|slice:':1'|upper }}</span></div></header>
+  <main class="content">{% for m in messages %}<div class="flash {{ m.tags }}">{{ m }}</div>{% endfor %}{% block content %}{% endblock %}</main>
+</div></div></body></html>

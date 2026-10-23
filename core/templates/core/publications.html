@@ -1,0 +1,41 @@
+{% extends "core/base.html" %}
+{% load site_tags %}
+{% block title %}Publications | {{ site.full_name }}{% endblock %}
+{% block content %}
+<header class="page-head"><div class="wrap">
+  <h1>Publications</h1>
+  <p class="lead">{{ total }} entries listed: journal articles, invited reviews, books and chapters. {% if site.h_index %}H-index {{ site.h_index }}.{% endif %}</p>
+</div></header>
+<section class="block"><div class="wrap">
+  <form class="filters" method="get" role="search">
+    <label>Search<input type="search" name="q" value="{{ q }}" placeholder="Title, author or journal"></label>
+    <label>Type<select name="kind"><option value="">All types</option>{% for k, l in kinds %}<option value="{{ k }}"{% if k == kind %} selected{% endif %}>{{ l }}</option>{% endfor %}</select></label>
+    <label>Topic<select name="topic"><option value="">All topics</option>{% for k, l in topics %}<option value="{{ k }}"{% if k == topic %} selected{% endif %}>{{ l }}</option>{% endfor %}</select></label>
+    <label>Year<select name="year"><option value="">All years</option>{% for y in years %}<option value="{{ y }}"{% if y|stringformat:"s" == year %} selected{% endif %}>{{ y }}</option>{% endfor %}</select></label>
+    <button class="btn btn-solid" type="submit">Apply filters</button>
+    {% if q or kind or topic or year %}<a class="clear" href="{% url 'publications' %}">Clear</a>{% endif %}
+  </form>
+  <p class="count" aria-live="polite">{{ page.paginator.count }} result{{ page.paginator.count|pluralize }}</p>
+  <ol class="entries">
+    {% for p in page %}
+    <li>
+      <span class="e-year">{{ p.year|default_if_none:"" }}</span>
+      <div>
+        <p class="e-title">{{ p.title }}</p>
+        {% if p.authors %}<p class="e-sub">{{ p.authors }}</p>{% endif %}
+        {% if p.journal %}<p class="e-sub e-journal">{{ p.journal }}</p>{% endif %}
+        <p class="e-links">
+          <span class="tag">{{ p.get_kind_display }}</span>
+          {% if p.topic != "other" %}<span class="tag tag-topic">{{ p.get_topic_display }}</span>{% endif %}
+          {% if p.url %}<a href="{{ p.url }}" rel="noopener" target="_blank">View article</a>{% endif %}
+          {% if p.pdf %}<a href="{{ p.pdf.url }}" download>PDF</a>{% endif %}
+        </p>
+      </div>
+    </li>
+    {% empty %}
+    <li class="empty">No publications match these filters. Clear the filters or try a different search.</li>
+    {% endfor %}
+  </ol>
+  {% include "core/_pager.html" %}
+</div></section>
+{% endblock %}

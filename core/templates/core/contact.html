@@ -1,0 +1,40 @@
+{% extends "core/base.html" %}
+{% block title %}Contact | {{ site.full_name }}{% endblock %}
+{% block content %}
+<header class="page-head"><div class="wrap">
+  <h1>Contact</h1>
+  <p class="lead">For research collaboration, speaking invitations, media inquiries and academic questions.</p>
+</div></header>
+<section class="block"><div class="wrap contact-grid">
+  <div class="contact-details">
+    <h2>Details</h2>
+    <p><strong>Phone</strong><br><a href="tel:{{ site.phone_href }}">{{ site.phone }}</a></p>
+    <p><strong>Email</strong><br>
+      <a href="mailto:{{ site.email_primary }}">{{ site.email_primary }}</a>
+      {% if site.email_secondary %}<br><a href="mailto:{{ site.email_secondary }}">{{ site.email_secondary }}</a>{% endif %}</p>
+    <p><strong>{{ site.office_name }}</strong><br>{% for l in site.office_address_lines %}{{ l }}{% if not forloop.last %}<br>{% endif %}{% endfor %}</p>
+    {% if site.academic_name %}<p><strong>{{ site.academic_name }}</strong><br>{% for l in site.academic_address_lines %}{{ l }}<br>{% endfor %}{% if site.academic_phone %}{{ site.academic_phone }}{% endif %}</p>{% endif %}
+    {% if site.orcid_url or site.pubmed_url or site.linkedin_url or site.researchgate_url %}
+    <p><strong>Profiles</strong><br>
+      {% if site.pubmed_url %}<a href="{{ site.pubmed_url }}" rel="noopener" target="_blank">PubMed</a><br>{% endif %}
+      {% if site.orcid_url %}<a href="{{ site.orcid_url }}" rel="noopener" target="_blank">ORCID</a><br>{% endif %}
+      {% if site.linkedin_url %}<a href="{{ site.linkedin_url }}" rel="noopener" target="_blank">LinkedIn</a><br>{% endif %}
+      {% if site.researchgate_url %}<a href="{{ site.researchgate_url }}" rel="noopener" target="_blank">ResearchGate</a>{% endif %}</p>
+    {% endif %}
+  </div>
+  <form class="contact-form" method="post" novalidate>
+    {% csrf_token %}
+    <h2>Send a message</h2>
+    {% if form.errors %}<p class="form-error" role="alert">Some details need fixing. Check the highlighted fields and send again.</p>{% endif %}
+    <div class="row2">
+      <div class="field{% if form.first_name.errors %} bad{% endif %}"><label for="{{ form.first_name.id_for_label }}">{{ form.first_name.label }}</label>{{ form.first_name }}{% for e in form.first_name.errors %}<span class="err">{{ e }}</span>{% endfor %}</div>
+      <div class="field{% if form.last_name.errors %} bad{% endif %}"><label for="{{ form.last_name.id_for_label }}">{{ form.last_name.label }}</label>{{ form.last_name }}{% for e in form.last_name.errors %}<span class="err">{{ e }}</span>{% endfor %}</div>
+    </div>
+    <div class="field{% if form.email.errors %} bad{% endif %}"><label for="{{ form.email.id_for_label }}">{{ form.email.label }}</label>{{ form.email }}{% for e in form.email.errors %}<span class="err">{{ e }}</span>{% endfor %}</div>
+    <div class="field"><label for="{{ form.topic.id_for_label }}">{{ form.topic.label }}</label>{{ form.topic }}</div>
+    <div class="field{% if form.message.errors %} bad{% endif %}"><label for="{{ form.message.id_for_label }}">Message</label>{{ form.message }}{% for e in form.message.errors %}<span class="err">{{ e }}</span>{% endfor %}</div>
+    <div class="hp" aria-hidden="true">{{ form.website }}</div>
+    <button class="btn btn-solid" type="submit">Send message</button>
+  </form>
+</div></section>
+{% endblock %}

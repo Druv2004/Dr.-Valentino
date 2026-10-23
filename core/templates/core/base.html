@@ -1,0 +1,51 @@
+{% load static site_tags %}<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}{{ site.full_name }}{% endblock %}</title>
+  <meta name="description" content="{% block description %}{{ site.short_title }}. Research, advocacy and education to improve the health and wellbeing of people with bleeding disorders.{% endblock %}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{% static 'core/site.css' %}">
+</head>
+<body class="page-{{ current }}">
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="wrap bar">
+      <a class="brand" href="{% url 'home' %}">{{ site.full_name }}</a>
+      <button class="menu-btn" type="button" aria-expanded="false" aria-controls="nav">Menu</button>
+      <nav id="nav" class="nav" aria-label="Main">
+        {% for name, label in nav_items %}
+          <a href="{% url name %}"{% if current == name %} aria-current="page"{% endif %}>{{ label }}</a>
+        {% endfor %}
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">{% block content %}{% endblock %}</main>
+
+  <footer class="site-footer">
+    <div class="wrap foot-grid">
+      <div>
+        <p class="foot-name">{{ site.full_name }}</p>
+        <p class="foot-sub">{{ site.short_title }}</p>
+        <p class="foot-sub"><a href="tel:{{ site.phone_href }}">{{ site.phone }}</a></p>
+      </div>
+      <nav aria-label="Footer">
+        {% for name, label in nav_items %}<a href="{% url name %}">{{ label }}</a>{% endfor %}
+      </nav>
+      <nav aria-label="Profiles">
+        {% if site.cv_file %}<a href="{{ site.cv_file.url }}" download>Download CV</a>{% endif %}
+        {% if site.pubmed_url %}<a href="{{ site.pubmed_url }}" rel="noopener" target="_blank">PubMed profile</a>{% endif %}
+        {% if site.orcid_url %}<a href="{{ site.orcid_url }}" rel="noopener" target="_blank">ORCID</a>{% endif %}
+        {% if site.linkedin_url %}<a href="{{ site.linkedin_url }}" rel="noopener" target="_blank">LinkedIn</a>{% endif %}
+        {% if site.researchgate_url %}<a href="{{ site.researchgate_url }}" rel="noopener" target="_blank">ResearchGate</a>{% endif %}
+      </nav>
+    </div>
+    <div class="wrap foot-legal">&copy; {% now "Y" %} {{ site.full_name }} &nbsp;&nbsp; <a class="staff-link" href="{% url 'login' %}">Staff login</a></div>
+  </footer>
+  <script src="{% static 'core/site.js' %}" defer></script>
+</body>
+</html>

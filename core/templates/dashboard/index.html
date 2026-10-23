@@ -1,0 +1,17 @@
+{% extends 'dashboard/base.html' %}{% block title %}Overview{% endblock %}{% block breadcrumb %}Overview{% endblock %}
+{% block content %}
+<div class="heading"><div><span class="eyebrow">WORKSPACE OVERVIEW</span><h1>Welcome back, {{ request.user.first_name|default:request.user.username }}.</h1><p>Here is what is on the website today. Everything you change here updates the public site.</p></div>{% if can_edit %}<a class="primary-btn" href="{% url 'dash_new' 'resources' %}">+ Add a video or resource</a>{% endif %}</div>
+<div class="stat-grid">{% for label, n, sub, icon in stats %}<div class="stat-card"><span>{{ label }} <b>{{ icon }}</b></span><strong>{{ n }}</strong><small>{{ sub }}</small></div>{% endfor %}</div>
+<div class="two-column">
+  <section class="panel"><div class="panel-head"><div><h2>Recent messages</h2><p>From the website contact form</p></div><a href="{% url 'messages_manage' %}">View all ↗</a></div>
+    <div class="table-wrap"><table><thead><tr><th>FROM</th><th>SUBJECT</th><th>STATUS</th></tr></thead><tbody>
+    {% for m in recent_messages %}<tr><td class="t-main"><a href="{% url 'message_detail' m.pk %}"><strong>{{ m.first_name }} {{ m.last_name }}</strong></a><small>{{ m.created|date:'d M Y' }}</small></td><td>{{ m.get_topic_display }}</td><td><span class="pill {% if m.handled %}resolved{% else %}new{% endif %}">{% if m.handled %}Handled{% else %}New{% endif %}</span></td></tr>
+    {% empty %}<tr><td colspan="3" class="empty">No messages yet.</td></tr>{% endfor %}</tbody></table></div></section>
+  <div class="side-stack">
+    {% if can_edit %}<section class="panel"><div class="panel-head"><div><h2>Quick actions</h2><p>Add new content to the website</p></div></div><div class="quick">
+      {% for label, name, key in quick %}<a href="{% url name key %}">{{ label }} <em>+</em></a>{% endfor %}</div></section>{% endif %}
+    <section class="panel"><div class="panel-head"><div><h2>Latest resources</h2><p>Newest videos and downloads</p></div><a href="{% url 'dash_list' 'resources' %}">Manage ↗</a></div>
+      <div class="product-mini">{% for r in recent_resources %}<a href="{% url 'dash_edit' 'resources' r.pk %}"><div><strong>{{ r.title|truncatechars:42 }}</strong><small>{{ r.get_kind_display }}, {{ r.added|date:'d M Y' }}</small></div><span class="pill {% if r.has_content %}resolved{% else %}closed{% endif %}">{% if r.has_content %}Live{% else %}Empty{% endif %}</span></a>{% empty %}<p class="empty">No resources yet. Add the first video or document.</p>{% endfor %}</div></section>
+  </div>
+</div>
+{% endblock %}

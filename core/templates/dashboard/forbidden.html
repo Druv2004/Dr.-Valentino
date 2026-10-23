@@ -1,0 +1,2 @@
+{% extends 'dashboard/base.html' %}{% block title %}No access{% endblock %}
+{% block content %}<div class="forbid"><span class="eyebrow">NO ACCESS</span><h1>Your account cannot do that.</h1><p>Ask an administrator to change your role if you need this access.</p><a class="primary-btn" href="{% url 'dashboard' %}">Back to Overview</a></div>{% endblock %}

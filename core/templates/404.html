@@ -1,0 +1,9 @@
+{% extends "core/base.html" %}
+{% block title %}Page not found | {{ site.full_name }}{% endblock %}
+{% block content %}
+<header class="page-head"><div class="wrap">
+  <h1>Page not found</h1>
+  <p class="lead">That address does not exist on this site. Check the link, or start from the Home page.</p>
+  <p><a class="btn btn-plasma" href="{% url 'home' %}">Back to Home</a></p>
+</div></header>
+{% endblock %}
